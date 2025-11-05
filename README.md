@@ -4,14 +4,13 @@ A comprehensive analysis of G-box regulatory networks in *Arabidopsis thaliana* 
 
 ## Overview
 
-This project constructs and analyses gene regulatory networks from single-cell RNA-seq data of *Arabidopsis* flowers, focusing on transcription factors that bind G-box and W-box motifs. The analysis compares single-cell-derived networks with the established AraBOXcis network (trained on bulk RNA-seq from seedlings) to identify tissue-specific regulatory relationships.
+This project constructs and analyses gene regulatory networks from single-cell RNA-seq data of *Arabidopsis* flowers, focusing on transcription factors that bind G-box motifs. The analysis compares single-cell-derived networks with the established AraBOXcis network (trained on bulk RNA-seq from seedlings) to identify tissue-specific regulatory relationships.
 
 **Key techniques:**
 - Single-cell RNA-seq data processing and quality control.
 - Gene regulatory network inference using GENIE3.
 - Network topology analysis (degree, betweenness, centrality, hub scores).
 - Gene Ontology enrichment and pathway analysis.
-- Network visualisation in Cytoscape.
 
 ## Key Findings
 
@@ -20,6 +19,36 @@ This project constructs and analyses gene regulatory networks from single-cell R
 - **Hub Transcription Factors:** AT5G08130 identified as the most highly connected TF with 1,875 target genes, followed by AT3G24140 (1,511 targets) and AT3G57800 (1,446 targets).
 - **Regulatory Relationships:** Discovered 211 strong positive TF-target pairs with significant co-occurrence in single cells (odds ratio > e).
 - **GO Term Hierarchy:** Revealed upstream-downstream relationships between biological processes in the flower regulatory network.
+
+## Results
+
+### Single-Cell Data Quality and Cell Type Clustering
+
+<img src="results/figures/Plot of UMAP.png" width="600">
+
+**Figure 1:** UMAP projection of G-box gene expression across 12 cell type clusters in *Arabidopsis* flowers. Distinct clustering indicates high-quality single-cell data and clear cell type separation.
+
+### Network Inference and Comparison
+
+<img src="results/figures/Scatterplot of TFs.png" width="600">
+
+**Figure 2:** Comparison of transcription factor degrees between SinceAraBOXcis (single-cell flower network) and AraBOXcis (bulk seedling network). Weak correlation indicates substantial tissue-specific regulatory rewiring between flowers and seedlings.
+
+<img src="results/figures/Histogram of TFs.png" width="600">
+
+**Figure 3:** Distribution of transcription factor degrees showing a scale-free network topology. Most TFs regulate few targets, while hub TFs (right tail) coordinate expression of hundreds to thousands of genes.
+
+### Network Topology Analysis
+
+<img src="results/figures/Scatterplot of Hub Score vs Alpha Centrality.png" width="600">
+
+**Figure 4:** Comparison of hub score and alpha centrality metrics. The strong vertical distribution at low hub scores indicates many genes with high influence despite low connectivity, suggesting regulatory importance beyond simple degree centrality.
+
+### Functional Enrichment
+
+<img src="results/figures/Heatmap_log10.png" width="600">
+
+**Figure 5:** PAFway analysis revealing hierarchical relationships between Gene Ontology terms in the regulatory network. Red indicates GO terms significantly enriched upstream of other terms (lower p-values), revealing biological process ordering during flower development.
 
 ## Project Structure
 
@@ -52,8 +81,8 @@ This project constructs and analyses gene regulatory networks from single-cell R
 ## Methodology
 
 ### 1. Data Processing & Quality Control
-- Filtered out cells expressing <1% of genes.
-- Filtered out genes expressed in <1% of cells.
+- Removed cells expressing <1% of genes.
+- Removed genes expressed in <1% of cells.
 - Retained high-quality data for downstream analysis.
 
 ### 2. Exploratory Analysis
@@ -81,11 +110,6 @@ Multiple centrality metrics to identify important regulatory genes:
 ### 6. Functional Enrichment
 - **PAFway analysis:** Identifies GO terms enriched upstream/downstream of other GO terms.
 - Reveals hierarchical relationships between biological processes in the network.
-
-### 7. Network Visualisation
-- Cytoscape used for interactive network exploration.
-- Network layouts highlighting hub genes and community structure.
-- Export of top regulatory subnetworks.
 
 ## Requirements
 
@@ -141,15 +165,15 @@ The analysis reveals that single-cell and bulk RNA-seq networks capture differen
 
 ## References
 
-- **AraBOXcis network:** Taylor-Teeples et al. (2015) *Cell* - Original G-box regulatory network.
-- **GENIE3:** Huynh-Thu et al. (2010) *PLoS ONE* - Network inference algorithm.
-- **Dataset:** Single-cell RNA-seq from *Arabidopsis* flower development (GEO: GSE226097).
+- **G-box regulatory code:** Ezer, D. et al. (2017) "The G-Box Transcriptional Regulatory Code in Arabidopsis" *Plant Physiology* 175(2):628-640.
+- **GENIE3:** Huynh-Thu, V.A. et al. (2010) "Inferring Regulatory Networks from Expression Data Using Tree-Based Methods" *PLoS ONE* 5(9):e12776.
+- **Dataset:** Procko, C. et al. (2023) "A single cell developmental atlas for a whole plant" *Nature Plants* (GEO: GSE226097).
 
 ## Author
 
 **Mathew Johansson**  
 MSc Bioinformatics  
-[GitHub](https://github.com/MathewJohansson) | [LinkedIn](https://www.linkedin.com/in/mathew-johansson/))
+[GitHub](https://github.com/MathewJohansson) | [LinkedIn](https://www.linkedin.com/in/mathew-johansson/)
 
 ## Acknowledgements
 
