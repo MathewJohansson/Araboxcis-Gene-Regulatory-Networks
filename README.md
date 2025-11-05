@@ -52,8 +52,8 @@ This project constructs and analyses gene regulatory networks from single-cell R
 ## Methodology
 
 ### 1. Data Processing & Quality Control
-- Filtered cells expressing <1% of genes.
-- Filtered genes expressed in <1% of cells.
+- Filtered out cells expressing <1% of genes.
+- Filtered out genes expressed in <1% of cells.
 - Retained high-quality data for downstream analysis.
 
 ### 2. Exploratory Analysis
