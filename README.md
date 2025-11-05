@@ -7,11 +7,11 @@ A comprehensive analysis of G-box regulatory networks in *Arabidopsis thaliana* 
 This project constructs and analyses gene regulatory networks from single-cell RNA-seq data of *Arabidopsis* flowers, focusing on transcription factors that bind G-box and W-box motifs. The analysis compares single-cell-derived networks with the established AraBOXcis network (trained on bulk RNA-seq from seedlings) to identify tissue-specific regulatory relationships.
 
 **Key techniques:**
-- Single-cell RNA-seq data processing and quality control
-- Gene regulatory network inference using GENIE3
-- Network topology analysis (degree, betweenness, centrality, hub scores)
-- Gene Ontology enrichment and pathway analysis
-- Network visualization in Cytoscape
+- Single-cell RNA-seq data processing and quality control.
+- Gene regulatory network inference using GENIE3.
+- Network topology analysis (degree, betweenness, centrality, hub scores).
+- Gene Ontology enrichment and pathway analysis.
+- Network visualization in Cytoscape.
 
 ## Key Findings
 
