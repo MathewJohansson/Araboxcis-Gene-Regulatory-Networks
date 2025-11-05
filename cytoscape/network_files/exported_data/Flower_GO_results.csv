@@ -1,0 +1,2705 @@
+"DownstreamTerm","UpstreamTerm","pValue"
+"morphogenesis","morphogenesis",2.9737092787703e-34
+"morphogenesis","anthocyanin",1
+"morphogenesis","auxin",0.999999955295741
+"morphogenesis","brassinosteroid",0.999741518718754
+"morphogenesis","calcium",0.999999999998363
+"morphogenesis","carbohydrate",0.857114331379282
+"morphogenesis","spliceosome",0.783634734317291
+"morphogenesis","cell growth",0.167296454337326
+"morphogenesis","cell death",0.603191900665305
+"morphogenesis","redox",1
+"morphogenesis","abscisic acid",0.999999380353251
+"morphogenesis","cold",0.999622842937283
+"morphogenesis","heat",0.829901169714719
+"morphogenesis","jasmonic acid",0.999996915472509
+"morphogenesis","nitrogen",2.42904390767406e-15
+"morphogenesis","salt stress",0.999438765729645
+"morphogenesis","oxidative stress",0.837457950601981
+"morphogenesis","salicylic acid",0.999999968055668
+"morphogenesis","chlorophyll",0.999962808475979
+"morphogenesis","chromatin",1.62823808089216e-18
+"morphogenesis","kinase",0.100550454210132
+"morphogenesis","cytoskeleton",4.64194160610306e-64
+"morphogenesis","ribosome",0.987519533597654
+"morphogenesis","defense",0.379015918543114
+"morphogenesis","endoreduplication",1
+"morphogenesis","DNA methylation",1
+"morphogenesis","endocytosis",0.185331476318434
+"morphogenesis","endomembrane",1
+"morphogenesis","ethylene",6.77704286348363e-34
+"morphogenesis","gibberellin",1.74420603319345e-06
+"morphogenesis","leaf vascular",1
+"morphogenesis","lipid",0.000262517194371563
+"morphogenesis","lysosome",0.555904739504369
+"morphogenesis","metal ion",9.65883053671125e-09
+"morphogenesis","nucleosome",1
+"morphogenesis","pectin",0.999612952086617
+"morphogenesis","phloem",1
+"morphogenesis","photoperiodism",0.000517196744558095
+"morphogenesis","photosynthesis",1
+"morphogenesis","phototropism",1
+"morphogenesis","pigment",1
+"morphogenesis","senescence",0.945083083694108
+"morphogenesis","ubiquitin",0.999999999999999
+"morphogenesis","secretion",1
+"morphogenesis","light",0.000404512746320526
+"morphogenesis","circadian",1
+"morphogenesis","cell cycle",0.201265015129766
+"morphogenesis","vesicle",3.35320809166405e-23
+"morphogenesis","water",1.0200634538819e-14
+"morphogenesis","sulfur",1
+"morphogenesis","translation",1
+"morphogenesis","trichome",0.000440599663952113
+"anthocyanin","morphogenesis",0.138027770339902
+"anthocyanin","anthocyanin",1
+"anthocyanin","auxin",1
+"anthocyanin","brassinosteroid",1
+"anthocyanin","calcium",1
+"anthocyanin","carbohydrate",0.590589155123489
+"anthocyanin","spliceosome",1
+"anthocyanin","cell growth",0.564269215624333
+"anthocyanin","cell death",1
+"anthocyanin","redox",1
+"anthocyanin","abscisic acid",1
+"anthocyanin","cold",0.645984922121358
+"anthocyanin","heat",1
+"anthocyanin","jasmonic acid",1
+"anthocyanin","nitrogen",0.0116897992012384
+"anthocyanin","salt stress",0.69388545075658
+"anthocyanin","oxidative stress",1
+"anthocyanin","salicylic acid",0.506444570491368
+"anthocyanin","chlorophyll",1
+"anthocyanin","chromatin",0.115849054373646
+"anthocyanin","kinase",0.922272490190288
+"anthocyanin","cytoskeleton",0.00329908635332279
+"anthocyanin","ribosome",1
+"anthocyanin","defense",0.741118602222374
+"anthocyanin","endoreduplication",1
+"anthocyanin","DNA methylation",1
+"anthocyanin","endocytosis",0.170484150988426
+"anthocyanin","endomembrane",1
+"anthocyanin","ethylene",0.474715334939457
+"anthocyanin","gibberellin",0.187534014020008
+"anthocyanin","leaf vascular",1
+"anthocyanin","lipid",0.516464080926151
+"anthocyanin","lysosome",1
+"anthocyanin","metal ion",1
+"anthocyanin","nucleosome",1
+"anthocyanin","pectin",1
+"anthocyanin","phloem",1
+"anthocyanin","photoperiodism",0.252300403241739
+"anthocyanin","photosynthesis",1
+"anthocyanin","phototropism",1
+"anthocyanin","pigment",1
+"anthocyanin","senescence",0.44094636804731
+"anthocyanin","ubiquitin",1
+"anthocyanin","secretion",1
+"anthocyanin","light",0.130945559558469
+"anthocyanin","circadian",1
+"anthocyanin","cell cycle",0.536257277071449
+"anthocyanin","vesicle",0.209823642008775
+"anthocyanin","water",0.470086108969974
+"anthocyanin","sulfur",1
+"anthocyanin","translation",1
+"anthocyanin","trichome",1
+"auxin","morphogenesis",3.70093247409489e-22
+"auxin","anthocyanin",1
+"auxin","auxin",0.999996246916558
+"auxin","brassinosteroid",0.995541830668044
+"auxin","calcium",0.999999718769994
+"auxin","carbohydrate",0.753064448678916
+"auxin","spliceosome",0.968520675308924
+"auxin","cell growth",0.549199822155293
+"auxin","cell death",0.357389914052378
+"auxin","redox",1
+"auxin","abscisic acid",0.999998043883949
+"auxin","cold",0.998471278838589
+"auxin","heat",0.997742882992432
+"auxin","jasmonic acid",0.999958330380888
+"auxin","nitrogen",6.6326154679046e-09
+"auxin","salt stress",0.999939953110887
+"auxin","oxidative stress",0.87158442608148
+"auxin","salicylic acid",0.999999946392862
+"auxin","chlorophyll",0.999479237850297
+"auxin","chromatin",2.78864863584743e-08
+"auxin","kinase",0.355996091462151
+"auxin","cytoskeleton",2.98453935672319e-33
+"auxin","ribosome",0.943857686893445
+"auxin","defense",0.333257300131525
+"auxin","endoreduplication",1
+"auxin","DNA methylation",1
+"auxin","endocytosis",0.599501392969974
+"auxin","endomembrane",1
+"auxin","ethylene",4.74329706159109e-16
+"auxin","gibberellin",0.00276341567833774
+"auxin","leaf vascular",1
+"auxin","lipid",0.00826978423880437
+"auxin","lysosome",0.205961002832136
+"auxin","metal ion",0.00212014613657933
+"auxin","nucleosome",1
+"auxin","pectin",0.992680506569134
+"auxin","phloem",1
+"auxin","photoperiodism",0.000314281107916859
+"auxin","photosynthesis",1
+"auxin","phototropism",1
+"auxin","pigment",1
+"auxin","senescence",0.981181881021333
+"auxin","ubiquitin",0.999999999772876
+"auxin","secretion",1
+"auxin","light",0.00506125305628934
+"auxin","circadian",1
+"auxin","cell cycle",0.907893215682572
+"auxin","vesicle",7.59436276945026e-12
+"auxin","water",5.3364353545709e-05
+"auxin","sulfur",1
+"auxin","translation",0.999999999999869
+"auxin","trichome",0.0644386628175346
+"brassinosteroid","morphogenesis",2.41549254246783e-07
+"brassinosteroid","anthocyanin",1
+"brassinosteroid","auxin",0.872243727372499
+"brassinosteroid","brassinosteroid",0.827081811123884
+"brassinosteroid","calcium",1
+"brassinosteroid","carbohydrate",0.687965486710317
+"brassinosteroid","spliceosome",0.899231658584172
+"brassinosteroid","cell growth",0.626654632271193
+"brassinosteroid","cell death",1
+"brassinosteroid","redox",1
+"brassinosteroid","abscisic acid",0.999964656214449
+"brassinosteroid","cold",0.998829275918282
+"brassinosteroid","heat",0.354518677448003
+"brassinosteroid","jasmonic acid",1
+"brassinosteroid","nitrogen",0.000695713750359169
+"brassinosteroid","salt stress",0.779181775981499
+"brassinosteroid","oxidative stress",0.989795437020312
+"brassinosteroid","salicylic acid",1
+"brassinosteroid","chlorophyll",1
+"brassinosteroid","chromatin",4.2207729564365e-05
+"brassinosteroid","kinase",0.591897659723627
+"brassinosteroid","cytoskeleton",1.83088896716717e-09
+"brassinosteroid","ribosome",1
+"brassinosteroid","defense",0.963936224034847
+"brassinosteroid","endoreduplication",1
+"brassinosteroid","DNA methylation",1
+"brassinosteroid","endocytosis",0.342763989486082
+"brassinosteroid","endomembrane",1
+"brassinosteroid","ethylene",4.15583037466698e-09
+"brassinosteroid","gibberellin",0.390760935330949
+"brassinosteroid","leaf vascular",1
+"brassinosteroid","lipid",0.188643137174087
+"brassinosteroid","lysosome",0.417236128767769
+"brassinosteroid","metal ion",0.000476505419558896
+"brassinosteroid","nucleosome",1
+"brassinosteroid","pectin",1
+"brassinosteroid","phloem",1
+"brassinosteroid","photoperiodism",0.0129078813723954
+"brassinosteroid","photosynthesis",1
+"brassinosteroid","phototropism",1
+"brassinosteroid","pigment",1
+"brassinosteroid","senescence",0.977176146443883
+"brassinosteroid","ubiquitin",0.9995450088642
+"brassinosteroid","secretion",1
+"brassinosteroid","light",0.558913929548467
+"brassinosteroid","circadian",1
+"brassinosteroid","cell cycle",0.38311317406736
+"brassinosteroid","vesicle",0.00467964810245963
+"brassinosteroid","water",0.00101029161044811
+"brassinosteroid","sulfur",1
+"brassinosteroid","translation",1
+"brassinosteroid","trichome",0.555125134854299
+"calcium","morphogenesis",5.32900232816896e-11
+"calcium","anthocyanin",1
+"calcium","auxin",0.98485453076659
+"calcium","brassinosteroid",1
+"calcium","calcium",0.99995369087772
+"calcium","carbohydrate",0.813644313722092
+"calcium","spliceosome",0.638177433659949
+"calcium","cell growth",0.737572659711517
+"calcium","cell death",0.686482799648442
+"calcium","redox",1
+"calcium","abscisic acid",0.999996763049176
+"calcium","cold",0.877705942825496
+"calcium","heat",0.999088550030003
+"calcium","jasmonic acid",0.999803754394796
+"calcium","nitrogen",2.94988075756684e-10
+"calcium","salt stress",0.999936308311677
+"calcium","oxidative stress",0.791510539052993
+"calcium","salicylic acid",0.998733200267303
+"calcium","chlorophyll",0.984777223886604
+"calcium","chromatin",8.84278573769027e-06
+"calcium","kinase",0.0616770369415633
+"calcium","cytoskeleton",2.66784763090396e-28
+"calcium","ribosome",0.463711312920381
+"calcium","defense",0.662326105378915
+"calcium","endoreduplication",1
+"calcium","DNA methylation",1
+"calcium","endocytosis",0.167754680466014
+"calcium","endomembrane",1
+"calcium","ethylene",8.94507416836131e-15
+"calcium","gibberellin",0.624067232827437
+"calcium","leaf vascular",1
+"calcium","lipid",0.00945793592401302
+"calcium","lysosome",0.368786239129284
+"calcium","metal ion",8.48011191597708e-06
+"calcium","nucleosome",1
+"calcium","pectin",0.829492301166381
+"calcium","phloem",1
+"calcium","photoperiodism",0.00673560408982122
+"calcium","photosynthesis",1
+"calcium","phototropism",1
+"calcium","pigment",1
+"calcium","senescence",0.414350132588247
+"calcium","ubiquitin",0.99999979275095
+"calcium","secretion",1
+"calcium","light",0.128991837044681
+"calcium","circadian",1
+"calcium","cell cycle",0.749735009392968
+"calcium","vesicle",2.16464689229691e-10
+"calcium","water",0.000362308252323358
+"calcium","sulfur",1
+"calcium","translation",1
+"calcium","trichome",0.575122123076302
+"carbohydrate","morphogenesis",3.81931935924271e-14
+"carbohydrate","anthocyanin",1
+"carbohydrate","auxin",0.99859120328293
+"carbohydrate","brassinosteroid",0.928739470750376
+"carbohydrate","calcium",0.999985571669401
+"carbohydrate","carbohydrate",0.968490684044464
+"carbohydrate","spliceosome",0.944302720152311
+"carbohydrate","cell growth",0.518267375201305
+"carbohydrate","cell death",0.691175657376439
+"carbohydrate","redox",1
+"carbohydrate","abscisic acid",0.999929258410987
+"carbohydrate","cold",0.998772458382772
+"carbohydrate","heat",0.999767697914143
+"carbohydrate","jasmonic acid",0.999170293047865
+"carbohydrate","nitrogen",2.83542637895922e-05
+"carbohydrate","salt stress",0.99891726464061
+"carbohydrate","oxidative stress",0.603302700725547
+"carbohydrate","salicylic acid",0.999999745518005
+"carbohydrate","chlorophyll",1
+"carbohydrate","chromatin",1.54239316704991e-08
+"carbohydrate","kinase",0.0624426981278765
+"carbohydrate","cytoskeleton",1.11104650568636e-33
+"carbohydrate","ribosome",0.786820857908133
+"carbohydrate","defense",0.686563316498255
+"carbohydrate","endoreduplication",1
+"carbohydrate","DNA methylation",1
+"carbohydrate","endocytosis",0.00837849678802292
+"carbohydrate","endomembrane",1
+"carbohydrate","ethylene",1.33565346484449e-14
+"carbohydrate","gibberellin",0.00631016347349372
+"carbohydrate","leaf vascular",1
+"carbohydrate","lipid",0.0870301260527089
+"carbohydrate","lysosome",0.106474351095805
+"carbohydrate","metal ion",0.0010171963768813
+"carbohydrate","nucleosome",1
+"carbohydrate","pectin",0.997080818736015
+"carbohydrate","phloem",1
+"carbohydrate","photoperiodism",0.00513664786896601
+"carbohydrate","photosynthesis",1
+"carbohydrate","phototropism",1
+"carbohydrate","pigment",1
+"carbohydrate","senescence",0.985209581872074
+"carbohydrate","ubiquitin",0.99999903546134
+"carbohydrate","secretion",1
+"carbohydrate","light",0.37056341231141
+"carbohydrate","circadian",1
+"carbohydrate","cell cycle",0.389953648509614
+"carbohydrate","vesicle",3.23057932733937e-11
+"carbohydrate","water",6.26975348261885e-05
+"carbohydrate","sulfur",1
+"carbohydrate","translation",0.99999999695261
+"carbohydrate","trichome",0.0198191334308194
+"spliceosome","morphogenesis",1.35084112234283e-05
+"spliceosome","anthocyanin",1
+"spliceosome","auxin",0.769327044387487
+"spliceosome","brassinosteroid",0.899231658584172
+"spliceosome","calcium",0.99580021517725
+"spliceosome","carbohydrate",0.488617069901742
+"spliceosome","spliceosome",0.57703847747259
+"spliceosome","cell growth",0.559371769393499
+"spliceosome","cell death",0.958315592445131
+"spliceosome","redox",1
+"spliceosome","abscisic acid",0.987792816757702
+"spliceosome","cold",0.873380219629746
+"spliceosome","heat",0.885059322520218
+"spliceosome","jasmonic acid",0.991331870983021
+"spliceosome","nitrogen",0.000202050897919941
+"spliceosome","salt stress",0.97191338361355
+"spliceosome","oxidative stress",0.759473122269125
+"spliceosome","salicylic acid",0.982683038383067
+"spliceosome","chlorophyll",0.899231658584172
+"spliceosome","chromatin",0.00499500805960536
+"spliceosome","kinase",0.419317603767361
+"spliceosome","cytoskeleton",3.9852784637552e-17
+"spliceosome","ribosome",0.867318275629195
+"spliceosome","defense",0.375508373432141
+"spliceosome","endoreduplication",1
+"spliceosome","DNA methylation",1
+"spliceosome","endocytosis",0.471433160510098
+"spliceosome","endomembrane",1
+"spliceosome","ethylene",8.46382217760196e-08
+"spliceosome","gibberellin",0.260100979548807
+"spliceosome","leaf vascular",1
+"spliceosome","lipid",0.247533757505051
+"spliceosome","lysosome",0.506444570491368
+"spliceosome","metal ion",0.0296970750714329
+"spliceosome","nucleosome",1
+"spliceosome","pectin",1
+"spliceosome","phloem",1
+"spliceosome","photoperiodism",0.105028477032313
+"spliceosome","photosynthesis",1
+"spliceosome","phototropism",1
+"spliceosome","pigment",1
+"spliceosome","senescence",0.549422788265427
+"spliceosome","ubiquitin",0.999957383219627
+"spliceosome","secretion",1
+"spliceosome","light",0.109856428943282
+"spliceosome","circadian",1
+"spliceosome","cell cycle",0.957965775016133
+"spliceosome","vesicle",1.96795145435706e-07
+"spliceosome","water",0.00306055157097095
+"spliceosome","sulfur",1
+"spliceosome","translation",0.999877066281894
+"spliceosome","trichome",0.0914988549458439
+"cell growth","morphogenesis",6.88839348849713e-13
+"cell growth","anthocyanin",1
+"cell growth","auxin",0.999318153298419
+"cell growth","brassinosteroid",0.905235833243477
+"cell growth","calcium",0.999752762604379
+"cell growth","carbohydrate",0.702308502628441
+"cell growth","spliceosome",0.832535164207863
+"cell growth","cell growth",0.772630910323038
+"cell growth","cell death",0.334803185214379
+"cell growth","redox",1
+"cell growth","abscisic acid",0.999592831176773
+"cell growth","cold",0.92167271856061
+"cell growth","heat",0.912492650883825
+"cell growth","jasmonic acid",0.994862498791174
+"cell growth","nitrogen",2.16828684560284e-07
+"cell growth","salt stress",0.993594744745989
+"cell growth","oxidative stress",0.860968259221909
+"cell growth","salicylic acid",0.999915638088081
+"cell growth","chlorophyll",0.995483531537542
+"cell growth","chromatin",2.45784886227934e-09
+"cell growth","kinase",0.0339630171100812
+"cell growth","cytoskeleton",8.97420915410487e-26
+"cell growth","ribosome",0.835340450846356
+"cell growth","defense",0.17328870375157
+"cell growth","endoreduplication",1
+"cell growth","DNA methylation",1
+"cell growth","endocytosis",0.00519439496751993
+"cell growth","endomembrane",1
+"cell growth","ethylene",8.55560582555309e-16
+"cell growth","gibberellin",0.0262904875946642
+"cell growth","leaf vascular",1
+"cell growth","lipid",0.00014978720521622
+"cell growth","lysosome",0.494690447202246
+"cell growth","metal ion",0.000163314059408966
+"cell growth","nucleosome",1
+"cell growth","pectin",0.999434121350905
+"cell growth","phloem",1
+"cell growth","photoperiodism",0.0162307565624372
+"cell growth","photosynthesis",0.98429549291547
+"cell growth","phototropism",1
+"cell growth","pigment",1
+"cell growth","senescence",0.893077819473969
+"cell growth","ubiquitin",0.999999999948108
+"cell growth","secretion",1
+"cell growth","light",0.0810988033057742
+"cell growth","circadian",1
+"cell growth","cell cycle",0.14627982199443
+"cell growth","vesicle",2.34450226897971e-11
+"cell growth","water",4.14056088798322e-05
+"cell growth","sulfur",1
+"cell growth","translation",1
+"cell growth","trichome",0.0139678516983338
+"cell death","morphogenesis",8.06181087468919e-10
+"cell death","anthocyanin",1
+"cell death","auxin",0.999674007613453
+"cell death","brassinosteroid",1
+"cell death","calcium",0.99695625810188
+"cell death","carbohydrate",0.18781068611785
+"cell death","spliceosome",0.392472861788116
+"cell death","cell growth",0.220895689920291
+"cell death","cell death",0.653358167773216
+"cell death","redox",1
+"cell death","abscisic acid",0.997127970362246
+"cell death","cold",0.99528483643226
+"cell death","heat",0.301510306963109
+"cell death","jasmonic acid",0.983199438101143
+"cell death","nitrogen",1.86162179338336e-08
+"cell death","salt stress",0.993631705446687
+"cell death","oxidative stress",0.950177102832028
+"cell death","salicylic acid",0.99826280181491
+"cell death","chlorophyll",1
+"cell death","chromatin",0.00106928673455896
+"cell death","kinase",0.364625023306565
+"cell death","cytoskeleton",3.02801464405002e-09
+"cell death","ribosome",0.976208084622182
+"cell death","defense",0.64059729713642
+"cell death","endoreduplication",1
+"cell death","DNA methylation",1
+"cell death","endocytosis",0.501214679960176
+"cell death","endomembrane",1
+"cell death","ethylene",1.39704221753522e-10
+"cell death","gibberellin",0.0416132317841236
+"cell death","leaf vascular",1
+"cell death","lipid",0.00757786176600681
+"cell death","lysosome",0.526525362073478
+"cell death","metal ion",0.000221965141542225
+"cell death","nucleosome",1
+"cell death","pectin",0.965422581751139
+"cell death","phloem",1
+"cell death","photoperiodism",0.0502753144621297
+"cell death","photosynthesis",1
+"cell death","phototropism",1
+"cell death","pigment",1
+"cell death","senescence",0.994667102592045
+"cell death","ubiquitin",0.999725187265955
+"cell death","secretion",1
+"cell death","light",0.000928704930932088
+"cell death","circadian",1
+"cell death","cell cycle",0.968433354738789
+"cell death","vesicle",0.00243165910938231
+"cell death","water",0.000235422234439851
+"cell death","sulfur",1
+"cell death","translation",0.999927618565365
+"cell death","trichome",0.308826741447109
+"redox","morphogenesis",0.259268791736308
+"redox","anthocyanin",1
+"redox","auxin",1
+"redox","brassinosteroid",1
+"redox","calcium",1
+"redox","carbohydrate",0.36014637057413
+"redox","spliceosome",1
+"redox","cell growth",1
+"redox","cell death",1
+"redox","redox",1
+"redox","abscisic acid",1
+"redox","cold",0.405006547679438
+"redox","heat",0.260024422177261
+"redox","jasmonic acid",1
+"redox","nitrogen",0.0146859108401885
+"redox","salt stress",1
+"redox","oxidative stress",1
+"redox","salicylic acid",1
+"redox","chlorophyll",1
+"redox","chromatin",1
+"redox","kinase",1
+"redox","cytoskeleton",0.135303550650111
+"redox","ribosome",1
+"redox","defense",0.575122123076302
+"redox","endoreduplication",1
+"redox","DNA methylation",1
+"redox","endocytosis",0.0892223044305095
+"redox","endomembrane",1
+"redox","ethylene",0.0419262947101772
+"redox","gibberellin",0.0986309404304963
+"redox","leaf vascular",1
+"redox","lipid",0.159462801004961
+"redox","lysosome",1
+"redox","metal ion",0.126277700873178
+"redox","nucleosome",1
+"redox","pectin",1
+"redox","phloem",1
+"redox","photoperiodism",1
+"redox","photosynthesis",1
+"redox","phototropism",1
+"redox","pigment",1
+"redox","senescence",1
+"redox","ubiquitin",1
+"redox","secretion",1
+"redox","light",0.149651539936712
+"redox","circadian",1
+"redox","cell cycle",1
+"redox","vesicle",0.0685845494509436
+"redox","water",0.137675530071014
+"redox","sulfur",1
+"redox","translation",1
+"redox","trichome",1
+"abscisic acid","morphogenesis",1.62058609357539e-40
+"abscisic acid","anthocyanin",1
+"abscisic acid","auxin",0.999999970188369
+"abscisic acid","brassinosteroid",0.999964656214449
+"abscisic acid","calcium",0.999999999999992
+"abscisic acid","carbohydrate",0.952846690944281
+"abscisic acid","spliceosome",0.197426307172013
+"abscisic acid","cell growth",0.377276527311108
+"abscisic acid","cell death",0.88635841091902
+"abscisic acid","redox",1
+"abscisic acid","abscisic acid",0.999999999912931
+"abscisic acid","cold",0.999982064932123
+"abscisic acid","heat",0.896877001313275
+"abscisic acid","jasmonic acid",0.999999997332589
+"abscisic acid","nitrogen",2.52914352416729e-20
+"abscisic acid","salt stress",0.999800662237835
+"abscisic acid","oxidative stress",0.229316330045948
+"abscisic acid","salicylic acid",0.999999094396269
+"abscisic acid","chlorophyll",0.999995632786031
+"abscisic acid","chromatin",2.03195546064569e-21
+"abscisic acid","kinase",0.038560476172337
+"abscisic acid","cytoskeleton",2.75535374310168e-68
+"abscisic acid","ribosome",0.992038762234723
+"abscisic acid","defense",0.0515686259082843
+"abscisic acid","endoreduplication",1
+"abscisic acid","DNA methylation",1
+"abscisic acid","endocytosis",0.0212709530418584
+"abscisic acid","endomembrane",1
+"abscisic acid","ethylene",4.05088004015765e-37
+"abscisic acid","gibberellin",1.29123821054834e-05
+"abscisic acid","leaf vascular",1
+"abscisic acid","lipid",4.1794128536539e-05
+"abscisic acid","lysosome",0.00840360184403214
+"abscisic acid","metal ion",1.29902858205102e-10
+"abscisic acid","nucleosome",1
+"abscisic acid","pectin",0.926596555355126
+"abscisic acid","phloem",1
+"abscisic acid","photoperiodism",3.7763728853634e-05
+"abscisic acid","photosynthesis",1
+"abscisic acid","phototropism",1
+"abscisic acid","pigment",1
+"abscisic acid","senescence",0.631640528902264
+"abscisic acid","ubiquitin",1
+"abscisic acid","secretion",1
+"abscisic acid","light",1.96424649665203e-05
+"abscisic acid","circadian",1
+"abscisic acid","cell cycle",0.698613808296984
+"abscisic acid","vesicle",7.4871083368268e-30
+"abscisic acid","water",3.50297561598217e-16
+"abscisic acid","sulfur",1
+"abscisic acid","translation",1
+"abscisic acid","trichome",0.167271686984437
+"cold","morphogenesis",1.32498308733176e-17
+"cold","anthocyanin",1
+"cold","auxin",0.999884459841503
+"cold","brassinosteroid",1
+"cold","calcium",0.999998255444388
+"cold","carbohydrate",0.958455098010314
+"cold","spliceosome",0.655409323244461
+"cold","cell growth",0.340438218761542
+"cold","cell death",0.458036995666577
+"cold","redox",1
+"cold","abscisic acid",0.999991334580029
+"cold","cold",0.992244498571857
+"cold","heat",0.819032911815475
+"cold","jasmonic acid",0.999844303161415
+"cold","nitrogen",9.27135979464534e-10
+"cold","salt stress",0.997597222635372
+"cold","oxidative stress",0.948909832528278
+"cold","salicylic acid",0.999976538723102
+"cold","chlorophyll",0.990926137406483
+"cold","chromatin",2.92731061542763e-13
+"cold","kinase",0.318455712823334
+"cold","cytoskeleton",1.47708559833434e-29
+"cold","ribosome",0.946137876109554
+"cold","defense",0.940692756416323
+"cold","endoreduplication",1
+"cold","DNA methylation",1
+"cold","endocytosis",0.0488005927837047
+"cold","endomembrane",1
+"cold","ethylene",4.11690263253635e-17
+"cold","gibberellin",0.000333728192024121
+"cold","leaf vascular",1
+"cold","lipid",0.198180903670126
+"cold","lysosome",0.0598445294018938
+"cold","metal ion",0.000236349769561589
+"cold","nucleosome",1
+"cold","pectin",0.822943539921925
+"cold","phloem",1
+"cold","photoperiodism",0.000555689972054126
+"cold","photosynthesis",1
+"cold","phototropism",1
+"cold","pigment",1
+"cold","senescence",0.98980090605155
+"cold","ubiquitin",0.999999838325237
+"cold","secretion",1
+"cold","light",0.00341876998975747
+"cold","circadian",1
+"cold","cell cycle",0.371124322642047
+"cold","vesicle",1.09724419180255e-10
+"cold","water",6.60652045524641e-06
+"cold","sulfur",1
+"cold","translation",0.999999999996861
+"cold","trichome",0.0396492469522165
+"heat","morphogenesis",1.31696406152738e-18
+"heat","anthocyanin",1
+"heat","auxin",0.790055166958083
+"heat","brassinosteroid",0.749155051628147
+"heat","calcium",0.999088550030003
+"heat","carbohydrate",0.897915341402049
+"heat","spliceosome",1
+"heat","cell growth",0.232082745662168
+"heat","cell death",0.971595349207198
+"heat","redox",1
+"heat","abscisic acid",0.995750473655115
+"heat","cold",0.737115136688737
+"heat","heat",0.9353492211138
+"heat","jasmonic acid",0.999520708433521
+"heat","nitrogen",2.61406384866178e-07
+"heat","salt stress",0.873123001248373
+"heat","oxidative stress",0.0731374946652833
+"heat","salicylic acid",0.997725461378716
+"heat","chlorophyll",0.901985135265419
+"heat","chromatin",2.83406104521169e-07
+"heat","kinase",0.112213447241556
+"heat","cytoskeleton",1.87400369940335e-24
+"heat","ribosome",0.939050099559496
+"heat","defense",0.191220862086386
+"heat","endoreduplication",1
+"heat","DNA methylation",1
+"heat","endocytosis",0.753199921378872
+"heat","endomembrane",1
+"heat","ethylene",9.49574711045983e-16
+"heat","gibberellin",0.355315722233333
+"heat","leaf vascular",1
+"heat","lipid",0.0857671915039425
+"heat","lysosome",0.12149841855287
+"heat","metal ion",0.000223307021753503
+"heat","nucleosome",1
+"heat","pectin",0.629969409510371
+"heat","phloem",1
+"heat","photoperiodism",0.000445512840820814
+"heat","photosynthesis",0.950780828350562
+"heat","phototropism",1
+"heat","pigment",1
+"heat","senescence",0.736509484882684
+"heat","ubiquitin",0.999837930144865
+"heat","secretion",1
+"heat","light",0.0107169777459797
+"heat","circadian",1
+"heat","cell cycle",0.437690484991774
+"heat","vesicle",3.42064761915132e-08
+"heat","water",2.32718276719838e-07
+"heat","sulfur",1
+"heat","translation",1
+"heat","trichome",0.109803174933432
+"jasmonic acid","morphogenesis",4.67665168615096e-22
+"jasmonic acid","anthocyanin",1
+"jasmonic acid","auxin",0.999999531709329
+"jasmonic acid","brassinosteroid",0.984300874910486
+"jasmonic acid","calcium",0.999999847312949
+"jasmonic acid","carbohydrate",0.957244401734321
+"jasmonic acid","spliceosome",0.330656190289645
+"jasmonic acid","cell growth",0.302709526192737
+"jasmonic acid","cell death",0.642005137757308
+"jasmonic acid","redox",1
+"jasmonic acid","abscisic acid",0.999999893196381
+"jasmonic acid","cold",0.999979413877994
+"jasmonic acid","heat",0.576456278544358
+"jasmonic acid","jasmonic acid",0.999993097128745
+"jasmonic acid","nitrogen",5.03589808998563e-09
+"jasmonic acid","salt stress",0.999998933882918
+"jasmonic acid","oxidative stress",0.634415642658887
+"jasmonic acid","salicylic acid",0.999997881591715
+"jasmonic acid","chlorophyll",0.996489468547489
+"jasmonic acid","chromatin",8.75788402588654e-17
+"jasmonic acid","kinase",0.0499600290291614
+"jasmonic acid","cytoskeleton",5.69563362940563e-36
+"jasmonic acid","ribosome",0.980242582087622
+"jasmonic acid","defense",0.815444587326547
+"jasmonic acid","endoreduplication",1
+"jasmonic acid","DNA methylation",1
+"jasmonic acid","endocytosis",0.00989366936365981
+"jasmonic acid","endomembrane",1
+"jasmonic acid","ethylene",8.71425154043519e-23
+"jasmonic acid","gibberellin",0.0206015005088045
+"jasmonic acid","leaf vascular",1
+"jasmonic acid","lipid",0.0047817085510263
+"jasmonic acid","lysosome",0.223177243612436
+"jasmonic acid","metal ion",1.87525809599575e-08
+"jasmonic acid","nucleosome",1
+"jasmonic acid","pectin",0.998618714340648
+"jasmonic acid","phloem",1
+"jasmonic acid","photoperiodism",0.00613028111448864
+"jasmonic acid","photosynthesis",1
+"jasmonic acid","phototropism",1
+"jasmonic acid","pigment",1
+"jasmonic acid","senescence",0.994095379047068
+"jasmonic acid","ubiquitin",0.999999996657812
+"jasmonic acid","secretion",1
+"jasmonic acid","light",0.00920709860191719
+"jasmonic acid","circadian",1
+"jasmonic acid","cell cycle",0.135667561922179
+"jasmonic acid","vesicle",9.27945172946096e-16
+"jasmonic acid","water",8.20232180376669e-09
+"jasmonic acid","sulfur",1
+"jasmonic acid","translation",0.999999999998564
+"jasmonic acid","trichome",0.487684966733412
+"nitrogen","morphogenesis",3.75611715722969e-24
+"nitrogen","anthocyanin",1
+"nitrogen","auxin",0.999998951230905
+"nitrogen","brassinosteroid",1
+"nitrogen","calcium",0.999999998437332
+"nitrogen","carbohydrate",0.876848392193879
+"nitrogen","spliceosome",0.0774324715963509
+"nitrogen","cell growth",0.709471621236125
+"nitrogen","cell death",0.997370313449391
+"nitrogen","redox",1
+"nitrogen","abscisic acid",0.999999999968436
+"nitrogen","cold",0.999973078748447
+"nitrogen","heat",0.997511084969289
+"nitrogen","jasmonic acid",0.999999994753845
+"nitrogen","nitrogen",3.92110835085846e-18
+"nitrogen","salt stress",0.999999970156366
+"nitrogen","oxidative stress",0.652960204513267
+"nitrogen","salicylic acid",0.999999828727707
+"nitrogen","chlorophyll",1
+"nitrogen","chromatin",1.16588845069983e-19
+"nitrogen","kinase",0.288415979725205
+"nitrogen","cytoskeleton",4.18800546075772e-64
+"nitrogen","ribosome",0.976168291225856
+"nitrogen","defense",0.865041850112423
+"nitrogen","endoreduplication",1
+"nitrogen","DNA methylation",1
+"nitrogen","endocytosis",0.044533917556595
+"nitrogen","endomembrane",1
+"nitrogen","ethylene",2.25220076060278e-33
+"nitrogen","gibberellin",9.78294334221743e-05
+"nitrogen","leaf vascular",1
+"nitrogen","lipid",0.000414375622019711
+"nitrogen","lysosome",0.0815119236681993
+"nitrogen","metal ion",3.63752446412871e-12
+"nitrogen","nucleosome",1
+"nitrogen","pectin",0.968518008290637
+"nitrogen","phloem",1
+"nitrogen","photoperiodism",0.00187284149705244
+"nitrogen","photosynthesis",0.999903188689963
+"nitrogen","phototropism",1
+"nitrogen","pigment",1
+"nitrogen","senescence",0.856183280038361
+"nitrogen","ubiquitin",1
+"nitrogen","secretion",1
+"nitrogen","light",0.00949338640874491
+"nitrogen","circadian",1
+"nitrogen","cell cycle",0.279332196619753
+"nitrogen","vesicle",1.16129779278198e-20
+"nitrogen","water",1.31992231334932e-11
+"nitrogen","sulfur",1
+"nitrogen","translation",1
+"nitrogen","trichome",0.0561375765294468
+"salt stress","morphogenesis",2.6074531652151e-22
+"salt stress","anthocyanin",1
+"salt stress","auxin",0.999851067651209
+"salt stress","brassinosteroid",1
+"salt stress","calcium",0.99999979275095
+"salt stress","carbohydrate",0.779652462406424
+"salt stress","spliceosome",0.67415846053939
+"salt stress","cell growth",0.342983554445728
+"salt stress","cell death",0.620817742346436
+"salt stress","redox",1
+"salt stress","abscisic acid",0.999965914972527
+"salt stress","cold",0.999970692759495
+"salt stress","heat",0.921060691561799
+"salt stress","jasmonic acid",0.999825342315933
+"salt stress","nitrogen",1.69018649973159e-13
+"salt stress","salt stress",0.999753870219014
+"salt stress","oxidative stress",0.736525440447647
+"salt stress","salicylic acid",0.999999961704587
+"salt stress","chlorophyll",1
+"salt stress","chromatin",4.50954668388693e-08
+"salt stress","kinase",0.286191993591415
+"salt stress","cytoskeleton",3.12092253800207e-38
+"salt stress","ribosome",0.977504540192496
+"salt stress","defense",0.516209620638673
+"salt stress","endoreduplication",1
+"salt stress","DNA methylation",1
+"salt stress","endocytosis",0.0206504251425079
+"salt stress","endomembrane",1
+"salt stress","ethylene",7.78826730031152e-24
+"salt stress","gibberellin",0.0183187899437415
+"salt stress","leaf vascular",1
+"salt stress","lipid",0.000382338234292556
+"salt stress","lysosome",0.214521353856849
+"salt stress","metal ion",5.89655867819956e-07
+"salt stress","nucleosome",1
+"salt stress","pectin",0.620817742346436
+"salt stress","phloem",1
+"salt stress","photoperiodism",0.0785623618426177
+"salt stress","photosynthesis",0.997312899035509
+"salt stress","phototropism",1
+"salt stress","pigment",1
+"salt stress","senescence",0.940181712980629
+"salt stress","ubiquitin",0.999999999061383
+"salt stress","secretion",1
+"salt stress","light",0.0105806030904859
+"salt stress","circadian",1
+"salt stress","cell cycle",0.686618207371135
+"salt stress","vesicle",1.2488589612479e-16
+"salt stress","water",5.2795075322028e-10
+"salt stress","sulfur",1
+"salt stress","translation",1
+"salt stress","trichome",0.149238307378299
+"oxidative stress","morphogenesis",4.72365808427051e-17
+"oxidative stress","anthocyanin",1
+"oxidative stress","auxin",0.995772000044819
+"oxidative stress","brassinosteroid",0.989795437020312
+"oxidative stress","calcium",0.999997638014045
+"oxidative stress","carbohydrate",0.878088255350648
+"oxidative stress","spliceosome",0.366566656690513
+"oxidative stress","cell growth",0.236661107000936
+"oxidative stress","cell death",0.565083292620566
+"oxidative stress","redox",1
+"oxidative stress","abscisic acid",0.999996495645769
+"oxidative stress","cold",0.997541608466145
+"oxidative stress","heat",0.957548332369643
+"oxidative stress","jasmonic acid",0.999774196092915
+"oxidative stress","nitrogen",7.87456020725426e-11
+"oxidative stress","salt stress",0.999985634414576
+"oxidative stress","oxidative stress",0.365404809480054
+"oxidative stress","salicylic acid",0.995498706573661
+"oxidative stress","chlorophyll",0.998660046306633
+"oxidative stress","chromatin",6.41131902452518e-11
+"oxidative stress","kinase",0.068992349488624
+"oxidative stress","cytoskeleton",7.10495992611182e-31
+"oxidative stress","ribosome",0.686710680555133
+"oxidative stress","defense",0.23745089647549
+"oxidative stress","endoreduplication",1
+"oxidative stress","DNA methylation",1
+"oxidative stress","endocytosis",0.482895924066279
+"oxidative stress","endomembrane",1
+"oxidative stress","ethylene",8.91620378716552e-22
+"oxidative stress","gibberellin",0.250812856285807
+"oxidative stress","leaf vascular",1
+"oxidative stress","lipid",0.00229548103597505
+"oxidative stress","lysosome",0.149292582234987
+"oxidative stress","metal ion",1.86678198222908e-06
+"oxidative stress","nucleosome",1
+"oxidative stress","pectin",0.694386231299774
+"oxidative stress","phloem",1
+"oxidative stress","photoperiodism",0.0146503491431538
+"oxidative stress","photosynthesis",1
+"oxidative stress","phototropism",1
+"oxidative stress","pigment",1
+"oxidative stress","senescence",0.265791732348993
+"oxidative stress","ubiquitin",0.999998875590701
+"oxidative stress","secretion",1
+"oxidative stress","light",0.0519995081815372
+"oxidative stress","circadian",1
+"oxidative stress","cell cycle",0.195228222835755
+"oxidative stress","vesicle",2.55626972870967e-07
+"oxidative stress","water",3.74732949110342e-08
+"oxidative stress","sulfur",1
+"oxidative stress","translation",0.99999998250305
+"oxidative stress","trichome",0.364620065673814
+"salicylic acid","morphogenesis",9.38652745548901e-11
+"salicylic acid","anthocyanin",1
+"salicylic acid","auxin",0.987792816757702
+"salicylic acid","brassinosteroid",0.836281670278951
+"salicylic acid","calcium",0.999789409439475
+"salicylic acid","carbohydrate",0.747194040956006
+"salicylic acid","spliceosome",0.554648092416711
+"salicylic acid","cell growth",0.442524533486263
+"salicylic acid","cell death",0.609552332540807
+"salicylic acid","redox",1
+"salicylic acid","abscisic acid",0.99977516918989
+"salicylic acid","cold",0.981481705215597
+"salicylic acid","heat",0.6934299922274
+"salicylic acid","jasmonic acid",0.998458325936967
+"salicylic acid","nitrogen",5.0083440898147e-08
+"salicylic acid","salt stress",0.995360658129326
+"salicylic acid","oxidative stress",0.818226796660188
+"salicylic acid","salicylic acid",0.999920524002789
+"salicylic acid","chlorophyll",1
+"salicylic acid","chromatin",1.60805979971376e-09
+"salicylic acid","kinase",0.00676823397036632
+"salicylic acid","cytoskeleton",2.7993823285918e-20
+"salicylic acid","ribosome",0.707053091913937
+"salicylic acid","defense",0.270978990487546
+"salicylic acid","endoreduplication",1
+"salicylic acid","DNA methylation",1
+"salicylic acid","endocytosis",0.615392703782222
+"salicylic acid","endomembrane",1
+"salicylic acid","ethylene",3.04456239128319e-17
+"salicylic acid","gibberellin",0.0279301360736202
+"salicylic acid","leaf vascular",1
+"salicylic acid","lipid",0.0177105904794063
+"salicylic acid","lysosome",1
+"salicylic acid","metal ion",6.77150295474974e-06
+"salicylic acid","nucleosome",1
+"salicylic acid","pectin",0.877795194094892
+"salicylic acid","phloem",1
+"salicylic acid","photoperiodism",0.00182889402077985
+"salicylic acid","photosynthesis",1
+"salicylic acid","phototropism",1
+"salicylic acid","pigment",1
+"salicylic acid","senescence",0.968520675308924
+"salicylic acid","ubiquitin",0.999999594447751
+"salicylic acid","secretion",1
+"salicylic acid","light",0.010082899879224
+"salicylic acid","circadian",1
+"salicylic acid","cell cycle",0.331313397083697
+"salicylic acid","vesicle",1.01515438145548e-09
+"salicylic acid","water",1.49901328471742e-05
+"salicylic acid","sulfur",1
+"salicylic acid","translation",1
+"salicylic acid","trichome",0.164833868246853
+"chlorophyll","morphogenesis",2.89927435422442e-08
+"chlorophyll","anthocyanin",1
+"chlorophyll","auxin",0.980657080265417
+"chlorophyll","brassinosteroid",1
+"chlorophyll","calcium",0.984777223886604
+"chlorophyll","carbohydrate",0.979500039394742
+"chlorophyll","spliceosome",0.667969339605691
+"chlorophyll","cell growth",0.298276319653598
+"chlorophyll","cell death",0.911957061962455
+"chlorophyll","redox",1
+"chlorophyll","abscisic acid",0.933948891106533
+"chlorophyll","cold",0.990926137406483
+"chlorophyll","heat",0.901985135265418
+"chlorophyll","jasmonic acid",0.952486275766744
+"chlorophyll","nitrogen",0.156594567132739
+"chlorophyll","salt stress",0.779181775981499
+"chlorophyll","oxidative stress",0.0377979012772219
+"chlorophyll","salicylic acid",0.989846935205169
+"chlorophyll","chlorophyll",1
+"chlorophyll","chromatin",0.00185096897983014
+"chlorophyll","kinase",0.232222966345731
+"chlorophyll","cytoskeleton",2.14546375488646e-10
+"chlorophyll","ribosome",1
+"chlorophyll","defense",0.307497920856467
+"chlorophyll","endoreduplication",1
+"chlorophyll","DNA methylation",1
+"chlorophyll","endocytosis",1
+"chlorophyll","endomembrane",1
+"chlorophyll","ethylene",0.00041612835162933
+"chlorophyll","gibberellin",0.0123660231182169
+"chlorophyll","leaf vascular",1
+"chlorophyll","lipid",0.514346827556413
+"chlorophyll","lysosome",0.417236128767769
+"chlorophyll","metal ion",0.101568819301447
+"chlorophyll","nucleosome",1
+"chlorophyll","pectin",1
+"chlorophyll","phloem",1
+"chlorophyll","photoperiodism",0.0432617025321501
+"chlorophyll","photosynthesis",0.740745532609857
+"chlorophyll","phototropism",1
+"chlorophyll","pigment",1
+"chlorophyll","senescence",0.727835601345838
+"chlorophyll","ubiquitin",0.9995450088642
+"chlorophyll","secretion",1
+"chlorophyll","light",0.154622014352959
+"chlorophyll","circadian",1
+"chlorophyll","cell cycle",0.558589847965411
+"chlorophyll","vesicle",0.0114866177540883
+"chlorophyll","water",0.00101029161044811
+"chlorophyll","sulfur",1
+"chlorophyll","translation",0.998977133072153
+"chlorophyll","trichome",0.194790035703398
+"chromatin","morphogenesis",2.65558428848757e-11
+"chromatin","anthocyanin",1
+"chromatin","auxin",0.99887002913003
+"chromatin","brassinosteroid",0.977176146443883
+"chromatin","calcium",0.993837646381863
+"chromatin","carbohydrate",0.875249504881909
+"chromatin","spliceosome",0.726868324147379
+"chromatin","cell growth",0.130040617476479
+"chromatin","cell death",0.4249502741548
+"chromatin","redox",1
+"chromatin","abscisic acid",0.949697204543998
+"chromatin","cold",0.591309482848688
+"chromatin","heat",0.338185944804225
+"chromatin","jasmonic acid",0.986404894490801
+"chromatin","nitrogen",7.03082709540574e-09
+"chromatin","salt stress",0.899009127057389
+"chromatin","oxidative stress",0.76027673523511
+"chromatin","salicylic acid",0.999949153259015
+"chromatin","chlorophyll",1
+"chromatin","chromatin",1.48698880833204e-05
+"chromatin","kinase",0.210916601251275
+"chromatin","cytoskeleton",4.01051170569368e-21
+"chromatin","ribosome",0.524185488369188
+"chromatin","defense",0.363408894178198
+"chromatin","endoreduplication",1
+"chromatin","DNA methylation",1
+"chromatin","endocytosis",0.485778610178228
+"chromatin","endomembrane",1
+"chromatin","ethylene",1.01761336459538e-11
+"chromatin","gibberellin",0.0748775443228163
+"chromatin","leaf vascular",1
+"chromatin","lipid",0.0207612211420262
+"chromatin","lysosome",0.0306474122736915
+"chromatin","metal ion",0.000159943363946009
+"chromatin","nucleosome",1
+"chromatin","pectin",0.89370410616594
+"chromatin","phloem",1
+"chromatin","photoperiodism",0.003231789629794
+"chromatin","photosynthesis",0.945394727186441
+"chromatin","phototropism",1
+"chromatin","pigment",1
+"chromatin","senescence",0.961497328318962
+"chromatin","ubiquitin",0.999990193937796
+"chromatin","secretion",1
+"chromatin","light",0.0364687520682077
+"chromatin","circadian",1
+"chromatin","cell cycle",0.910898325139137
+"chromatin","vesicle",1.43623636935303e-09
+"chromatin","water",1.31475778465244e-05
+"chromatin","sulfur",1
+"chromatin","translation",0.999994263973767
+"chromatin","trichome",0.00900244501839624
+"kinase","morphogenesis",5.46963261991228e-38
+"kinase","anthocyanin",1
+"kinase","auxin",0.999999990444972
+"kinase","brassinosteroid",0.999943628228559
+"kinase","calcium",0.99999999999993
+"kinase","carbohydrate",0.805592813319959
+"kinase","spliceosome",0.914390395949462
+"kinase","cell growth",0.310181391363367
+"kinase","cell death",0.761737186310488
+"kinase","redox",1
+"kinase","abscisic acid",0.999999999480313
+"kinase","cold",0.999082007053674
+"kinase","heat",0.924352742927821
+"kinase","jasmonic acid",0.999999310889518
+"kinase","nitrogen",3.2843669943001e-23
+"kinase","salt stress",0.99989065136916
+"kinase","oxidative stress",0.158207906862195
+"kinase","salicylic acid",0.99999999994794
+"kinase","chlorophyll",0.999999938679631
+"kinase","chromatin",1.93320574182897e-23
+"kinase","kinase",0.0276992189111606
+"kinase","cytoskeleton",2.67918844830548e-74
+"kinase","ribosome",0.998975690045128
+"kinase","defense",0.497431305841047
+"kinase","endoreduplication",1
+"kinase","DNA methylation",1
+"kinase","endocytosis",0.000838984934484514
+"kinase","endomembrane",1
+"kinase","ethylene",3.7965039801622e-48
+"kinase","gibberellin",0.000753731601210313
+"kinase","leaf vascular",1
+"kinase","lipid",5.52307870713492e-06
+"kinase","lysosome",0.000282677958870261
+"kinase","metal ion",8.73896666507531e-14
+"kinase","nucleosome",1
+"kinase","pectin",0.999993033425086
+"kinase","phloem",1
+"kinase","photoperiodism",4.56489990965979e-06
+"kinase","photosynthesis",1
+"kinase","phototropism",1
+"kinase","pigment",1
+"kinase","senescence",0.96254780870411
+"kinase","ubiquitin",1
+"kinase","secretion",1
+"kinase","light",1.44767696888088e-05
+"kinase","circadian",1
+"kinase","cell cycle",0.263548619518208
+"kinase","vesicle",2.58828849973194e-27
+"kinase","water",3.16982211991615e-19
+"kinase","sulfur",1
+"kinase","translation",1
+"kinase","trichome",0.0252134759236913
+"cytoskeleton","morphogenesis",1.25687661911796e-06
+"cytoskeleton","anthocyanin",1
+"cytoskeleton","auxin",0.98768842252949
+"cytoskeleton","brassinosteroid",0.848918321468664
+"cytoskeleton","calcium",1
+"cytoskeleton","carbohydrate",0.986022980181854
+"cytoskeleton","spliceosome",1
+"cytoskeleton","cell growth",0.524185488369188
+"cytoskeleton","cell death",0.926967728002493
+"cytoskeleton","redox",1
+"cytoskeleton","abscisic acid",0.99998731285545
+"cytoskeleton","cold",0.975833652316408
+"cytoskeleton","heat",0.607548143399844
+"cytoskeleton","jasmonic acid",0.997946834832269
+"cytoskeleton","nitrogen",0.0239265396395558
+"cytoskeleton","salt stress",0.915655036376586
+"cytoskeleton","oxidative stress",0.568529506529971
+"cytoskeleton","salicylic acid",0.992867364724327
+"cytoskeleton","chlorophyll",1
+"cytoskeleton","chromatin",0.0235327408912687
+"cytoskeleton","kinase",0.0959539192845471
+"cytoskeleton","cytoskeleton",8.17877347802507e-12
+"cytoskeleton","ribosome",0.7866179272503
+"cytoskeleton","defense",0.806889139989969
+"cytoskeleton","endoreduplication",1
+"cytoskeleton","DNA methylation",1
+"cytoskeleton","endocytosis",0.729749998806257
+"cytoskeleton","endomembrane",1
+"cytoskeleton","ethylene",3.08470895721433e-07
+"cytoskeleton","gibberellin",0.179637727725397
+"cytoskeleton","leaf vascular",1
+"cytoskeleton","lipid",0.289474138524024
+"cytoskeleton","lysosome",0.0213269030149182
+"cytoskeleton","metal ion",0.0432617025321501
+"cytoskeleton","nucleosome",1
+"cytoskeleton","pectin",1
+"cytoskeleton","phloem",1
+"cytoskeleton","photoperiodism",0.86936101029628
+"cytoskeleton","photosynthesis",1
+"cytoskeleton","phototropism",1
+"cytoskeleton","pigment",1
+"cytoskeleton","senescence",0.772065070424209
+"cytoskeleton","ubiquitin",0.999748288847824
+"cytoskeleton","secretion",1
+"cytoskeleton","light",0.676827949707815
+"cytoskeleton","circadian",1
+"cytoskeleton","cell cycle",0.0956394933546159
+"cytoskeleton","vesicle",0.00342517685716569
+"cytoskeleton","water",0.000106286356057112
+"cytoskeleton","sulfur",1
+"cytoskeleton","translation",0.999397736994773
+"cytoskeleton","trichome",0.581997402534137
+"ribosome","morphogenesis",6.57122464250965e-12
+"ribosome","anthocyanin",1
+"ribosome","auxin",0.943857686893445
+"ribosome","brassinosteroid",0.751321628520513
+"ribosome","calcium",0.883837040549806
+"ribosome","carbohydrate",0.535137730519168
+"ribosome","spliceosome",0.867318275629195
+"ribosome","cell growth",0.322144088898808
+"ribosome","cell death",0.037046090687772
+"ribosome","redox",1
+"ribosome","abscisic acid",0.549199822155293
+"ribosome","cold",0.589124367771161
+"ribosome","heat",0.939050099559496
+"ribosome","jasmonic acid",0.847965007009126
+"ribosome","nitrogen",4.58510737838049e-05
+"ribosome","salt stress",0.743184463479846
+"ribosome","oxidative stress",0.686710680555133
+"ribosome","salicylic acid",0.999142682302119
+"ribosome","chlorophyll",0.751321628520513
+"ribosome","chromatin",2.33020123258342e-07
+"ribosome","kinase",0.0881886768587588
+"ribosome","cytoskeleton",3.35427406898631e-10
+"ribosome","ribosome",0.595961125287422
+"ribosome","defense",0.135314603073574
+"ribosome","endoreduplication",1
+"ribosome","DNA methylation",1
+"ribosome","endocytosis",0.2879515185013
+"ribosome","endomembrane",1
+"ribosome","ethylene",1.40481616972272e-05
+"ribosome","gibberellin",0.156991473990939
+"ribosome","leaf vascular",1
+"ribosome","lipid",0.0914799236424224
+"ribosome","lysosome",0.202290922607727
+"ribosome","metal ion",0.13706394355111
+"ribosome","nucleosome",1
+"ribosome","pectin",1
+"ribosome","phloem",1
+"ribosome","photoperiodism",0.000874377343192157
+"ribosome","photosynthesis",1
+"ribosome","phototropism",1
+"ribosome","pigment",1
+"ribosome","senescence",0.36401844146819
+"ribosome","ubiquitin",0.999401575986745
+"ribosome","secretion",1
+"ribosome","light",0.127099520636088
+"ribosome","circadian",1
+"ribosome","cell cycle",0.502166917726406
+"ribosome","vesicle",0.00021511357866365
+"ribosome","water",0.000564229173879502
+"ribosome","sulfur",1
+"ribosome","translation",1
+"ribosome","trichome",0.130654607612346
+"defense","morphogenesis",5.87797378398038e-74
+"defense","anthocyanin",1
+"defense","auxin",1
+"defense","brassinosteroid",0.999998726276049
+"defense","calcium",1
+"defense","carbohydrate",0.999828976199416
+"defense","spliceosome",0.932349666957936
+"defense","cell growth",0.0127964844305874
+"defense","cell death",0.257668195011408
+"defense","redox",1
+"defense","abscisic acid",0.999999999999836
+"defense","cold",0.999984661424803
+"defense","heat",0.766331983975759
+"defense","jasmonic acid",0.999999986448535
+"defense","nitrogen",7.91809727835321e-37
+"defense","salt stress",0.999999771924219
+"defense","oxidative stress",0.417689739150068
+"defense","salicylic acid",0.999999999999988
+"defense","chlorophyll",0.999998726276049
+"defense","chromatin",1.29518058273746e-43
+"defense","kinase",0.00180871776657691
+"defense","cytoskeleton",5.35465705508519e-118
+"defense","ribosome",0.992036215916009
+"defense","defense",0.491170454169461
+"defense","endoreduplication",1
+"defense","DNA methylation",1
+"defense","endocytosis",0.00201150511732894
+"defense","endomembrane",1
+"defense","ethylene",5.50359031740253e-75
+"defense","gibberellin",7.10754506292607e-08
+"defense","leaf vascular",1
+"defense","lipid",2.07085228944631e-10
+"defense","lysosome",0.157834945592147
+"defense","metal ion",1.06382615394836e-23
+"defense","nucleosome",1
+"defense","pectin",0.998655114049646
+"defense","phloem",1
+"defense","photoperiodism",1.06065540394291e-09
+"defense","photosynthesis",0.999999995925324
+"defense","phototropism",1
+"defense","pigment",1
+"defense","senescence",0.999533842434069
+"defense","ubiquitin",1
+"defense","secretion",1
+"defense","light",2.16343782717814e-06
+"defense","circadian",1
+"defense","cell cycle",0.0109655111875466
+"defense","vesicle",3.51936893545777e-44
+"defense","water",2.31676041879095e-31
+"defense","sulfur",1
+"defense","translation",1
+"defense","trichome",7.64247077361026e-05
+"endoreduplication","morphogenesis",0.144488816394871
+"endoreduplication","anthocyanin",1
+"endoreduplication","auxin",0.862958817945313
+"endoreduplication","brassinosteroid",0.555125134854299
+"endoreduplication","calcium",1
+"endoreduplication","carbohydrate",0.747528028560323
+"endoreduplication","spliceosome",1
+"endoreduplication","cell growth",0.917275403155595
+"endoreduplication","cell death",0.308826741447109
+"endoreduplication","redox",1
+"endoreduplication","abscisic acid",0.969878909313604
+"endoreduplication","cold",0.817421805099722
+"endoreduplication","heat",0.835831008231581
+"endoreduplication","jasmonic acid",0.699673241553268
+"endoreduplication","nitrogen",0.109494936760618
+"endoreduplication","salt stress",1
+"endoreduplication","oxidative stress",0.364620065673814
+"endoreduplication","salicylic acid",1
+"endoreduplication","chlorophyll",1
+"endoreduplication","chromatin",0.000458530302834215
+"endoreduplication","kinase",0.152147938919117
+"endoreduplication","cytoskeleton",3.56916151533703e-05
+"endoreduplication","ribosome",0.353962619897854
+"endoreduplication","defense",0.2758582642996
+"endoreduplication","endoreduplication",1
+"endoreduplication","DNA methylation",1
+"endoreduplication","endocytosis",1
+"endoreduplication","endomembrane",1
+"endoreduplication","ethylene",0.000880108916987476
+"endoreduplication","gibberellin",0.0254517046503745
+"endoreduplication","leaf vascular",1
+"endoreduplication","lipid",0.0751762484615225
+"endoreduplication","lysosome",1
+"endoreduplication","metal ion",0.194790035703398
+"endoreduplication","nucleosome",1
+"endoreduplication","pectin",0.674206024922133
+"endoreduplication","phloem",1
+"endoreduplication","photoperiodism",0.0121314523455229
+"endoreduplication","photosynthesis",1
+"endoreduplication","phototropism",1
+"endoreduplication","pigment",1
+"endoreduplication","senescence",0.520457102502519
+"endoreduplication","ubiquitin",1
+"endoreduplication","secretion",1
+"endoreduplication","light",0.18161681728127
+"endoreduplication","circadian",1
+"endoreduplication","cell cycle",0.201718809683397
+"endoreduplication","vesicle",0.0457544375294422
+"endoreduplication","water",0.242576201027336
+"endoreduplication","sulfur",1
+"endoreduplication","translation",1
+"endoreduplication","trichome",1
+"DNA methylation","morphogenesis",0.0502430600939599
+"DNA methylation","anthocyanin",1
+"DNA methylation","auxin",1
+"DNA methylation","brassinosteroid",1
+"DNA methylation","calcium",1
+"DNA methylation","carbohydrate",1
+"DNA methylation","spliceosome",0.297464020209293
+"DNA methylation","cell growth",0.564269215624333
+"DNA methylation","cell death",1
+"DNA methylation","redox",1
+"DNA methylation","abscisic acid",1
+"DNA methylation","cold",0.645984922121358
+"DNA methylation","heat",0.452437252709875
+"DNA methylation","jasmonic acid",1
+"DNA methylation","nitrogen",0.0400033346622815
+"DNA methylation","salt stress",1
+"DNA methylation","oxidative stress",0.638555661333266
+"DNA methylation","salicylic acid",1
+"DNA methylation","chlorophyll",1
+"DNA methylation","chromatin",0.0213269030149182
+"DNA methylation","kinase",0.470086108969974
+"DNA methylation","cytoskeleton",0.252300403241739
+"DNA methylation","ribosome",1
+"DNA methylation","defense",0.344391026636207
+"DNA methylation","endoreduplication",1
+"DNA methylation","DNA methylation",1
+"DNA methylation","endocytosis",1
+"DNA methylation","endomembrane",1
+"DNA methylation","ethylene",0.136526787384508
+"DNA methylation","gibberellin",1
+"DNA methylation","leaf vascular",1
+"DNA methylation","lipid",0.295050262378246
+"DNA methylation","lysosome",1
+"DNA methylation","metal ion",0.23660965455696
+"DNA methylation","nucleosome",1
+"DNA methylation","pectin",1
+"DNA methylation","phloem",1
+"DNA methylation","photoperiodism",0.0349030564276317
+"DNA methylation","photosynthesis",1
+"DNA methylation","phototropism",1
+"DNA methylation","pigment",1
+"DNA methylation","senescence",1
+"DNA methylation","ubiquitin",1
+"DNA methylation","secretion",1
+"DNA methylation","light",0.743684727168729
+"DNA methylation","circadian",1
+"DNA methylation","cell cycle",1
+"DNA methylation","vesicle",0.209823642008775
+"DNA methylation","water",0.25412638334668
+"DNA methylation","sulfur",1
+"DNA methylation","translation",1
+"DNA methylation","trichome",1
+"endocytosis","morphogenesis",0.00209288455336554
+"endocytosis","anthocyanin",1
+"endocytosis","auxin",0.966753830416796
+"endocytosis","brassinosteroid",1
+"endocytosis","calcium",1
+"endocytosis","carbohydrate",0.570168481536965
+"endocytosis","spliceosome",1
+"endocytosis","cell growth",0.887260451964558
+"endocytosis","cell death",0.814044083719237
+"endocytosis","redox",1
+"endocytosis","abscisic acid",0.999674007613453
+"endocytosis","cold",0.990656370990613
+"endocytosis","heat",0.93348419876003
+"endocytosis","jasmonic acid",0.995576373691159
+"endocytosis","nitrogen",0.0232920961815138
+"endocytosis","salt stress",0.900337478558312
+"endocytosis","oxidative stress",0.942756231945602
+"endocytosis","salicylic acid",1
+"endocytosis","chlorophyll",1
+"endocytosis","chromatin",0.017707410507024
+"endocytosis","kinase",0.597741833116664
+"endocytosis","cytoskeleton",1.57566278952711e-08
+"endocytosis","ribosome",0.845747702987268
+"endocytosis","defense",0.989895821305768
+"endocytosis","endoreduplication",1
+"endocytosis","DNA methylation",1
+"endocytosis","endocytosis",0.568770533002538
+"endocytosis","endomembrane",1
+"endocytosis","ethylene",5.1508048884415e-05
+"endocytosis","gibberellin",0.0686653449045241
+"endocytosis","leaf vascular",1
+"endocytosis","lipid",0.462435212513613
+"endocytosis","lysosome",0.311903992888555
+"endocytosis","metal ion",0.0350766280397527
+"endocytosis","nucleosome",1
+"endocytosis","pectin",1
+"endocytosis","phloem",1
+"endocytosis","photoperiodism",0.0109361790570873
+"endocytosis","photosynthesis",1
+"endocytosis","phototropism",1
+"endocytosis","pigment",1
+"endocytosis","senescence",0.926967728002493
+"endocytosis","ubiquitin",1
+"endocytosis","secretion",1
+"endocytosis","light",0.0992340569768313
+"endocytosis","circadian",1
+"endocytosis","cell cycle",0.85960336036822
+"endocytosis","vesicle",0.00205376400565908
+"endocytosis","water",0.0142487909232278
+"endocytosis","sulfur",1
+"endocytosis","translation",1
+"endocytosis","trichome",1
+"endomembrane","morphogenesis",2.75293622851601e-07
+"endomembrane","anthocyanin",1
+"endomembrane","auxin",0.842829960505633
+"endomembrane","brassinosteroid",0.660388480905326
+"endomembrane","calcium",1
+"endomembrane","carbohydrate",0.478849132426992
+"endomembrane","spliceosome",0.169463036005995
+"endomembrane","cell growth",0.424716165946331
+"endomembrane","cell death",1
+"endomembrane","redox",1
+"endomembrane","abscisic acid",0.999062538305956
+"endomembrane","cold",0.98429549291547
+"endomembrane","heat",0.910109359651136
+"endomembrane","jasmonic acid",1
+"endomembrane","nitrogen",0.0388786679551163
+"endomembrane","salt stress",0.949645897793239
+"endomembrane","oxidative stress",0.772065070424209
+"endomembrane","salicylic acid",1
+"endomembrane","chlorophyll",0.660388480905326
+"endomembrane","chromatin",0.031392751692693
+"endomembrane","kinase",0.0952771837807624
+"endomembrane","cytoskeleton",4.35204113167423e-07
+"endomembrane","ribosome",0.810141608524492
+"endomembrane","defense",0.9019194241712
+"endomembrane","endoreduplication",1
+"endomembrane","DNA methylation",1
+"endomembrane","endocytosis",0.00721379310692145
+"endomembrane","endomembrane",1
+"endomembrane","ethylene",1.67796627459829e-05
+"endomembrane","gibberellin",0.564269215624333
+"endomembrane","leaf vascular",1
+"endomembrane","lipid",0.215505467355505
+"endomembrane","lysosome",1
+"endomembrane","metal ion",0.0955750946360669
+"endomembrane","nucleosome",1
+"endomembrane","pectin",1
+"endomembrane","phloem",1
+"endomembrane","photoperiodism",0.112590052975495
+"endomembrane","photosynthesis",1
+"endomembrane","phototropism",1
+"endomembrane","pigment",1
+"endomembrane","senescence",0.675110690746959
+"endomembrane","ubiquitin",1
+"endomembrane","secretion",1
+"endomembrane","light",0.495685543165769
+"endomembrane","circadian",1
+"endomembrane","cell cycle",1
+"endomembrane","vesicle",0.000226693605733292
+"endomembrane","water",0.0172665044852047
+"endomembrane","sulfur",1
+"endomembrane","translation",1
+"endomembrane","trichome",0.392520328778973
+"ethylene","morphogenesis",3.05798335943729e-10
+"ethylene","anthocyanin",1
+"ethylene","auxin",0.999999718769994
+"ethylene","brassinosteroid",0.984777223886604
+"ethylene","calcium",0.99995369087772
+"ethylene","carbohydrate",0.882940212157473
+"ethylene","spliceosome",0.795169349792693
+"ethylene","cell growth",0.737572659711517
+"ethylene","cell death",0.829492301166381
+"ethylene","redox",1
+"ethylene","abscisic acid",0.999974926413138
+"ethylene","cold",0.998708717456034
+"ethylene","heat",0.999088550030003
+"ethylene","jasmonic acid",0.99934628829336
+"ethylene","nitrogen",9.50487413724248e-07
+"ethylene","salt stress",0.999997988918698
+"ethylene","oxidative stress",0.510632865598402
+"ethylene","salicylic acid",0.999982373597868
+"ethylene","chlorophyll",1
+"ethylene","chromatin",3.00914464359955e-06
+"ethylene","kinase",0.106752470744364
+"ethylene","cytoskeleton",2.34041287121576e-25
+"ethylene","ribosome",0.954966105479294
+"ethylene","defense",0.562297418625426
+"ethylene","endoreduplication",1
+"ethylene","DNA methylation",1
+"ethylene","endocytosis",0.944824712657173
+"ethylene","endomembrane",1
+"ethylene","ethylene",2.75790527370915e-12
+"ethylene","gibberellin",0.401720614716775
+"ethylene","leaf vascular",1
+"ethylene","lipid",0.00648671748214333
+"ethylene","lysosome",1
+"ethylene","metal ion",3.30641998442324e-05
+"ethylene","nucleosome",1
+"ethylene","pectin",0.99695625810188
+"ethylene","phloem",1
+"ethylene","photoperiodism",0.000255064797407517
+"ethylene","photosynthesis",1
+"ethylene","phototropism",1
+"ethylene","pigment",1
+"ethylene","senescence",0.99878152057203
+"ethylene","ubiquitin",0.999997988918698
+"ethylene","secretion",1
+"ethylene","light",0.59531263819838
+"ethylene","circadian",1
+"ethylene","cell cycle",0.906541579274196
+"ethylene","vesicle",6.57586913959892e-11
+"ethylene","water",0.000130696522621929
+"ethylene","sulfur",1
+"ethylene","translation",0.999999926071851
+"ethylene","trichome",0.575122123076302
+"gibberellin","morphogenesis",1.40623052209022e-05
+"gibberellin","anthocyanin",1
+"gibberellin","auxin",0.689443394515269
+"gibberellin","brassinosteroid",1
+"gibberellin","calcium",1
+"gibberellin","carbohydrate",0.651800206464391
+"gibberellin","spliceosome",0.526759606166902
+"gibberellin","cell growth",0.239309482414259
+"gibberellin","cell death",0.845747702987268
+"gibberellin","redox",1
+"gibberellin","abscisic acid",0.943857686893445
+"gibberellin","cold",0.592541037536177
+"gibberellin","heat",0.579360216086983
+"gibberellin","jasmonic acid",0.997577963566776
+"gibberellin","nitrogen",3.68149190854867e-05
+"gibberellin","salt stress",0.703958958423481
+"gibberellin","oxidative stress",0.962447805700229
+"gibberellin","salicylic acid",0.970715937336441
+"gibberellin","chlorophyll",1
+"gibberellin","chromatin",5.32645123176629e-05
+"gibberellin","kinase",0.0367828374799705
+"gibberellin","cytoskeleton",4.88389589381965e-08
+"gibberellin","ribosome",0.614391163264177
+"gibberellin","defense",0.380222875146839
+"gibberellin","endoreduplication",1
+"gibberellin","DNA methylation",1
+"gibberellin","endocytosis",0.0686653449045241
+"gibberellin","endomembrane",1
+"gibberellin","ethylene",7.45183795285168e-06
+"gibberellin","gibberellin",0.278365820190066
+"gibberellin","leaf vascular",1
+"gibberellin","lipid",0.0400196377513598
+"gibberellin","lysosome",1
+"gibberellin","metal ion",0.0482373603851874
+"gibberellin","nucleosome",1
+"gibberellin","pectin",0.845747702987268
+"gibberellin","phloem",1
+"gibberellin","photoperiodism",0.0164810809913857
+"gibberellin","photosynthesis",1
+"gibberellin","phototropism",1
+"gibberellin","pigment",1
+"gibberellin","senescence",0.555783905882422
+"gibberellin","ubiquitin",0.997312899035509
+"gibberellin","secretion",1
+"gibberellin","light",0.126246908461634
+"gibberellin","circadian",1
+"gibberellin","cell cycle",0.340344788030202
+"gibberellin","vesicle",4.00428768673648e-05
+"gibberellin","water",0.0212168003031188
+"gibberellin","sulfur",1
+"gibberellin","translation",1
+"gibberellin","trichome",0.12954474338271
+"leaf vascular","morphogenesis",1.07984954309686e-06
+"leaf vascular","anthocyanin",1
+"leaf vascular","auxin",0.91346504228067
+"leaf vascular","brassinosteroid",1
+"leaf vascular","calcium",0.894957766688598
+"leaf vascular","carbohydrate",0.818852039985252
+"leaf vascular","spliceosome",0.350237044577871
+"leaf vascular","cell growth",0.169439990896556
+"leaf vascular","cell death",0.729749998806257
+"leaf vascular","redox",1
+"leaf vascular","abscisic acid",0.908185226392746
+"leaf vascular","cold",0.877664417376183
+"leaf vascular","heat",0.35251813582075
+"leaf vascular","jasmonic acid",0.923028970931769
+"leaf vascular","nitrogen",0.204774022540897
+"leaf vascular","salt stress",0.399123440916095
+"leaf vascular","oxidative stress",0.476630835310816
+"leaf vascular","salicylic acid",0.915539311118942
+"leaf vascular","chlorophyll",1
+"leaf vascular","chromatin",2.51645403296291e-07
+"leaf vascular","kinase",0.943018147687339
+"leaf vascular","cytoskeleton",9.26266829323865e-05
+"leaf vascular","ribosome",1
+"leaf vascular","defense",0.697444793978073
+"leaf vascular","endoreduplication",1
+"leaf vascular","DNA methylation",1
+"leaf vascular","endocytosis",0.480141766261926
+"leaf vascular","endomembrane",1
+"leaf vascular","ethylene",0.00228679271506413
+"leaf vascular","gibberellin",0.165200628471151
+"leaf vascular","leaf vascular",1
+"leaf vascular","lipid",0.915970601704825
+"leaf vascular","lysosome",1
+"leaf vascular","metal ion",0.611303858749714
+"leaf vascular","nucleosome",1
+"leaf vascular","pectin",1
+"leaf vascular","phloem",1
+"leaf vascular","photoperiodism",0.0200871515568294
+"leaf vascular","photosynthesis",1
+"leaf vascular","phototropism",1
+"leaf vascular","pigment",1
+"leaf vascular","senescence",0.86936101029628
+"leaf vascular","ubiquitin",0.918378825264479
+"leaf vascular","secretion",1
+"leaf vascular","light",0.147438699761049
+"leaf vascular","circadian",1
+"leaf vascular","cell cycle",0.0558833972446456
+"leaf vascular","vesicle",0.181418249776628
+"leaf vascular","water",0.0208939136323488
+"leaf vascular","sulfur",1
+"leaf vascular","translation",1
+"leaf vascular","trichome",0.0714927037017004
+"lipid","morphogenesis",2.69117180516799e-43
+"lipid","anthocyanin",1
+"lipid","auxin",0.999999985467747
+"lipid","brassinosteroid",0.998820078880444
+"lipid","calcium",1
+"lipid","carbohydrate",0.935886267498124
+"lipid","spliceosome",0.7113676544064
+"lipid","cell growth",0.562591060689592
+"lipid","cell death",0.797015516908545
+"lipid","redox",1
+"lipid","abscisic acid",0.999999998094533
+"lipid","cold",0.999868554227383
+"lipid","heat",0.978874703026273
+"lipid","jasmonic acid",0.999999919963381
+"lipid","nitrogen",2.22233845852596e-25
+"lipid","salt stress",0.999999997302284
+"lipid","oxidative stress",0.710802425926721
+"lipid","salicylic acid",0.999999999999372
+"lipid","chlorophyll",1
+"lipid","chromatin",5.00693543365483e-24
+"lipid","kinase",0.0120191819888624
+"lipid","cytoskeleton",2.87312469336311e-91
+"lipid","ribosome",0.962176880975872
+"lipid","defense",0.432386638525401
+"lipid","endoreduplication",1
+"lipid","DNA methylation",1
+"lipid","endocytosis",0.000997465358452693
+"lipid","endomembrane",1
+"lipid","ethylene",5.17728739350849e-51
+"lipid","gibberellin",1.71703836888305e-05
+"lipid","leaf vascular",1
+"lipid","lipid",3.27965771742445e-07
+"lipid","lysosome",0.0107397884980014
+"lipid","metal ion",4.10443728671053e-13
+"lipid","nucleosome",1
+"lipid","pectin",0.99928327297632
+"lipid","phloem",1
+"lipid","photoperiodism",4.52471149010952e-06
+"lipid","photosynthesis",0.999998887640178
+"lipid","phototropism",1
+"lipid","pigment",1
+"lipid","senescence",0.985643787035512
+"lipid","ubiquitin",1
+"lipid","secretion",1
+"lipid","light",7.75235936101326e-07
+"lipid","circadian",1
+"lipid","cell cycle",0.446986924921821
+"lipid","vesicle",6.45465693150698e-35
+"lipid","water",1.27920418629842e-20
+"lipid","sulfur",1
+"lipid","translation",1
+"lipid","trichome",0.206952728735176
+"lysosome","morphogenesis",0.000240650165102609
+"lysosome","anthocyanin",1
+"lysosome","auxin",1
+"lysosome","brassinosteroid",1
+"lysosome","calcium",1
+"lysosome","carbohydrate",0.533005623767086
+"lysosome","spliceosome",1
+"lysosome","cell growth",0.810141608524492
+"lysosome","cell death",1
+"lysosome","redox",1
+"lysosome","abscisic acid",1
+"lysosome","cold",0.874676341470403
+"lysosome","heat",1
+"lysosome","jasmonic acid",1
+"lysosome","nitrogen",0.0350817554883424
+"lysosome","salt stress",1
+"lysosome","oxidative stress",0.86936101029628
+"lysosome","salicylic acid",1
+"lysosome","chlorophyll",1
+"lysosome","chromatin",0.112590052975495
+"lysosome","kinase",0.403149491391723
+"lysosome","cytoskeleton",0.00300574753306389
+"lysosome","ribosome",1
+"lysosome","defense",0.369225074852075
+"lysosome","endoreduplication",1
+"lysosome","DNA methylation",1
+"lysosome","endocytosis",1
+"lysosome","endomembrane",1
+"lysosome","ethylene",0.00212760781934435
+"lysosome","gibberellin",1
+"lysosome","leaf vascular",1
+"lysosome","lipid",0.0528777624167999
+"lysosome","lysosome",1
+"lysosome","metal ion",0.0175996949450398
+"lysosome","nucleosome",1
+"lysosome","pectin",1
+"lysosome","phloem",1
+"lysosome","photoperiodism",1
+"lysosome","photosynthesis",1
+"lysosome","phototropism",1
+"lysosome","pigment",1
+"lysosome","senescence",1
+"lysosome","ubiquitin",0.906296814222312
+"lysosome","secretion",1
+"lysosome","light",0.439420865803142
+"lysosome","circadian",1
+"lysosome","cell cycle",0.200453314462549
+"lysosome","vesicle",0.029801989698751
+"lysosome","water",0.035944622094942
+"lysosome","sulfur",1
+"lysosome","translation",1
+"lysosome","trichome",1
+"metal ion","morphogenesis",2.41549254246783e-07
+"metal ion","anthocyanin",1
+"metal ion","auxin",0.943144941218982
+"metal ion","brassinosteroid",1
+"metal ion","calcium",0.984777223886604
+"metal ion","carbohydrate",0.996987704947559
+"metal ion","spliceosome",0.667969339605691
+"metal ion","cell growth",0.17829367839255
+"metal ion","cell death",0.438077192507062
+"metal ion","redox",1
+"metal ion","abscisic acid",0.823066467158404
+"metal ion","cold",0.904229260669406
+"metal ion","heat",0.749155051628147
+"metal ion","jasmonic acid",0.792672047536349
+"metal ion","nitrogen",0.000695713750359169
+"metal ion","salt stress",0.98256991664233
+"metal ion","oxidative stress",0.491451123568278
+"metal ion","salicylic acid",0.943242186605538
+"metal ion","chlorophyll",1
+"metal ion","chromatin",0.000159943363946009
+"metal ion","kinase",0.397907831203549
+"metal ion","cytoskeleton",2.47069431223226e-12
+"metal ion","ribosome",1
+"metal ion","defense",0.141612924953201
+"metal ion","endoreduplication",1
+"metal ion","DNA methylation",1
+"metal ion","endocytosis",0.342763989486082
+"metal ion","endomembrane",1
+"metal ion","ethylene",3.30641998442324e-05
+"metal ion","gibberellin",0.390760935330949
+"metal ion","leaf vascular",1
+"metal ion","lipid",0.134940455399702
+"metal ion","lysosome",0.417236128767769
+"metal ion","metal ion",0.101568819301447
+"metal ion","nucleosome",1
+"metal ion","pectin",0.698013025621176
+"metal ion","phloem",1
+"metal ion","photoperiodism",0.293551657333557
+"metal ion","photosynthesis",1
+"metal ion","phototropism",1
+"metal ion","pigment",1
+"metal ion","senescence",0.32822869135357
+"metal ion","ubiquitin",0.9995450088642
+"metal ion","secretion",1
+"metal ion","light",0.46282901956486
+"metal ion","circadian",1
+"metal ion","cell cycle",0.237036991240495
+"metal ion","vesicle",2.43177641699776e-08
+"metal ion","water",0.0196733283251783
+"metal ion","sulfur",1
+"metal ion","translation",1
+"metal ion","trichome",0.194790035703398
+"nucleosome","morphogenesis",0.627118428890686
+"nucleosome","anthocyanin",1
+"nucleosome","auxin",1
+"nucleosome","brassinosteroid",1
+"nucleosome","calcium",1
+"nucleosome","carbohydrate",1
+"nucleosome","spliceosome",1
+"nucleosome","cell growth",0.339899657201481
+"nucleosome","cell death",1
+"nucleosome","redox",1
+"nucleosome","abscisic acid",1
+"nucleosome","cold",1
+"nucleosome","heat",1
+"nucleosome","jasmonic acid",1
+"nucleosome","nitrogen",0.236375725532206
+"nucleosome","salt stress",1
+"nucleosome","oxidative stress",1
+"nucleosome","salicylic acid",1
+"nucleosome","chlorophyll",1
+"nucleosome","chromatin",1
+"nucleosome","kinase",0.721198384830923
+"nucleosome","cytoskeleton",0.00959657913326667
+"nucleosome","ribosome",1
+"nucleosome","defense",1
+"nucleosome","endoreduplication",1
+"nucleosome","DNA methylation",1
+"nucleosome","endocytosis",1
+"nucleosome","endomembrane",1
+"nucleosome","ethylene",1
+"nucleosome","gibberellin",1
+"nucleosome","leaf vascular",1
+"nucleosome","lipid",1
+"nucleosome","lysosome",1
+"nucleosome","metal ion",1
+"nucleosome","nucleosome",1
+"nucleosome","pectin",1
+"nucleosome","phloem",1
+"nucleosome","photoperiodism",1
+"nucleosome","photosynthesis",1
+"nucleosome","phototropism",1
+"nucleosome","pigment",1
+"nucleosome","senescence",1
+"nucleosome","ubiquitin",1
+"nucleosome","secretion",1
+"nucleosome","light",0.735304853092642
+"nucleosome","circadian",1
+"nucleosome","cell cycle",1
+"nucleosome","vesicle",0.0685845494509436
+"nucleosome","water",1
+"nucleosome","sulfur",1
+"nucleosome","translation",1
+"nucleosome","trichome",1
+"pectin","morphogenesis",2.79957738751914e-07
+"pectin","anthocyanin",1
+"pectin","auxin",0.94866698727098
+"pectin","brassinosteroid",0.911957061962455
+"pectin","calcium",0.928210528720327
+"pectin","carbohydrate",0.691175657376439
+"pectin","spliceosome",0.825853347929712
+"pectin","cell growth",0.618642772650251
+"pectin","cell death",0.653358167773216
+"pectin","redox",1
+"pectin","abscisic acid",0.88635841091902
+"pectin","cold",0.822943539921924
+"pectin","heat",0.789141243465314
+"pectin","jasmonic acid",0.958773400130315
+"pectin","nitrogen",0.00372919893942398
+"pectin","salt stress",0.906031494130687
+"pectin","oxidative stress",0.136057239296116
+"pectin","salicylic acid",0.759682363295135
+"pectin","chlorophyll",1
+"pectin","chromatin",9.89435204015085e-06
+"pectin","kinase",0.444042459511788
+"pectin","cytoskeleton",7.74060883515573e-12
+"pectin","ribosome",0.887260451964558
+"pectin","defense",0.00577860729559609
+"pectin","endoreduplication",1
+"pectin","DNA methylation",1
+"pectin","endocytosis",0.00176810067887424
+"pectin","endomembrane",1
+"pectin","ethylene",5.45818693155427e-08
+"pectin","gibberellin",0.120062645975268
+"pectin","leaf vascular",1
+"pectin","lipid",0.00757786176600681
+"pectin","lysosome",0.172525813316978
+"pectin","metal ion",0.0123269739649746
+"pectin","nucleosome",1
+"pectin","pectin",1
+"pectin","phloem",1
+"pectin","photoperiodism",0.00553362210020301
+"pectin","photosynthesis",1
+"pectin","phototropism",1
+"pectin","pigment",1
+"pectin","senescence",0.0843994959987685
+"pectin","ubiquitin",0.999725187265955
+"pectin","secretion",1
+"pectin","light",0.362223665644797
+"pectin","circadian",1
+"pectin","cell cycle",0.388736659850085
+"pectin","vesicle",4.4603440809763e-08
+"pectin","water",0.000235422234439851
+"pectin","sulfur",1
+"pectin","translation",1
+"pectin","trichome",0.103944130375337
+"phloem","morphogenesis",2.20403607509345e-10
+"phloem","anthocyanin",1
+"phloem","auxin",0.995665550331157
+"phloem","brassinosteroid",0.948693259466707
+"phloem","calcium",0.993212727730797
+"phloem","carbohydrate",0.283300132315718
+"phloem","spliceosome",0.744357510751137
+"phloem","cell growth",0.210558252358308
+"phloem","cell death",0.588123824736699
+"phloem","redox",1
+"phloem","abscisic acid",0.999850311439619
+"phloem","cold",0.988673493153475
+"phloem","heat",0.789994344152044
+"phloem","jasmonic acid",0.996880327164029
+"phloem","nitrogen",7.45190140545806e-05
+"phloem","salt stress",0.989424100895998
+"phloem","oxidative stress",0.929038378352371
+"phloem","salicylic acid",0.996290118989183
+"phloem","chlorophyll",1
+"phloem","chromatin",1.28309499755369e-05
+"phloem","kinase",0.384581447201863
+"phloem","cytoskeleton",1.80536243694485e-16
+"phloem","ribosome",0.989633848775424
+"phloem","defense",0.489266047944858
+"phloem","endoreduplication",1
+"phloem","DNA methylation",1
+"phloem","endocytosis",0.153123673846054
+"phloem","endomembrane",1
+"phloem","ethylene",1.30091429033908e-10
+"phloem","gibberellin",0.00904424423500902
+"phloem","leaf vascular",1
+"phloem","lipid",0.0236971774847722
+"phloem","lysosome",0.232568870187433
+"phloem","metal ion",0.011263046928722
+"phloem","nucleosome",1
+"phloem","pectin",1
+"phloem","phloem",1
+"phloem","photoperiodism",0.00569318229999892
+"phloem","photosynthesis",1
+"phloem","phototropism",1
+"phloem","pigment",1
+"phloem","senescence",0.880849432953022
+"phloem","ubiquitin",0.999997792115723
+"phloem","secretion",1
+"phloem","light",0.00150882115676609
+"phloem","circadian",1
+"phloem","cell cycle",0.738760703749178
+"phloem","vesicle",2.08607083481812e-07
+"phloem","water",0.00012098522824891
+"phloem","sulfur",1
+"phloem","translation",0.999991301894654
+"phloem","trichome",0.0504728221991776
+"photoperiodism","morphogenesis",0.000107663750697134
+"photoperiodism","anthocyanin",1
+"photoperiodism","auxin",0.98768842252949
+"photoperiodism","brassinosteroid",0.848918321468664
+"photoperiodism","calcium",1
+"photoperiodism","carbohydrate",0.433977861100124
+"photoperiodism","spliceosome",0.915539311118942
+"photoperiodism","cell growth",0.524185488369188
+"photoperiodism","cell death",0.926967728002493
+"photoperiodism","redox",1
+"photoperiodism","abscisic acid",0.991572160003144
+"photoperiodism","cold",0.931231409223671
+"photoperiodism","heat",0.923028970931769
+"photoperiodism","jasmonic acid",0.922583715057257
+"photoperiodism","nitrogen",0.00018915149255976
+"photoperiodism","salt stress",0.965135180782861
+"photoperiodism","oxidative stress",0.287130601219738
+"photoperiodism","salicylic acid",0.992867364724327
+"photoperiodism","chlorophyll",1
+"photoperiodism","chromatin",0.00910430119577211
+"photoperiodism","kinase",0.0959539192845471
+"photoperiodism","cytoskeleton",7.2833520318119e-11
+"photoperiodism","ribosome",0.945394727186441
+"photoperiodism","defense",0.605128402207831
+"photoperiodism","endoreduplication",1
+"photoperiodism","DNA methylation",1
+"photoperiodism","endocytosis",1
+"photoperiodism","endomembrane",1
+"photoperiodism","ethylene",1.3201624410536e-06
+"photoperiodism","gibberellin",0.179637727725397
+"photoperiodism","leaf vascular",1
+"photoperiodism","lipid",0.16174578424123
+"photoperiodism","lysosome",0.44094636804731
+"photoperiodism","metal ion",0.123571069593398
+"photoperiodism","nucleosome",1
+"photoperiodism","pectin",0.485778610178228
+"photoperiodism","phloem",1
+"photoperiodism","photoperiodism",0.0558872678735517
+"photoperiodism","photosynthesis",1
+"photoperiodism","phototropism",1
+"photoperiodism","pigment",1
+"photoperiodism","senescence",0.772065070424209
+"photoperiodism","ubiquitin",0.997662108086622
+"photoperiodism","secretion",1
+"photoperiodism","light",0.0607175713924066
+"photoperiodism","circadian",1
+"photoperiodism","cell cycle",0.784217029451883
+"photoperiodism","vesicle",0.00342517685716569
+"photoperiodism","water",0.000440285589305489
+"photoperiodism","sulfur",1
+"photoperiodism","translation",1
+"photoperiodism","trichome",0.581997402534137
+"photosynthesis","morphogenesis",5.03959454505683e-06
+"photosynthesis","anthocyanin",1
+"photosynthesis","auxin",0.524185488369188
+"photosynthesis","brassinosteroid",1
+"photosynthesis","calcium",1
+"photosynthesis","carbohydrate",0.937142697497392
+"photosynthesis","spliceosome",0.103192190058847
+"photosynthesis","cell growth",0.401146787080185
+"photosynthesis","cell death",0.845747702987268
+"photosynthesis","redox",1
+"photosynthesis","abscisic acid",0.990181031952182
+"photosynthesis","cold",0.760917422849648
+"photosynthesis","heat",0.355315722233333
+"photosynthesis","jasmonic acid",0.850831892399442
+"photosynthesis","nitrogen",9.78294334221743e-05
+"photosynthesis","salt stress",0.841429142744285
+"photosynthesis","oxidative stress",0.250812856285807
+"photosynthesis","salicylic acid",0.970715937336441
+"photosynthesis","chlorophyll",1
+"photosynthesis","chromatin",0.000874377343192157
+"photosynthesis","kinase",0.939245413679506
+"photosynthesis","cytoskeleton",4.07373215772843e-07
+"photosynthesis","ribosome",1
+"photosynthesis","defense",0.380222875146839
+"photosynthesis","endoreduplication",1
+"photosynthesis","DNA methylation",1
+"photosynthesis","endocytosis",0.607246508994334
+"photosynthesis","endomembrane",1
+"photosynthesis","ethylene",0.00183764601322722
+"photosynthesis","gibberellin",0.0214322967222819
+"photosynthesis","leaf vascular",1
+"photosynthesis","lipid",0.504204647324984
+"photosynthesis","lysosome",0.0657168494750662
+"photosynthesis","metal ion",0.0482373603851874
+"photosynthesis","nucleosome",1
+"photosynthesis","pectin",1
+"photosynthesis","phloem",1
+"photosynthesis","photoperiodism",0.426585203519287
+"photosynthesis","photosynthesis",1
+"photosynthesis","phototropism",1
+"photosynthesis","pigment",1
+"photosynthesis","senescence",0.0748775443228163
+"photosynthesis","ubiquitin",1
+"photosynthesis","secretion",1
+"photosynthesis","light",0.0820332956447584
+"photosynthesis","circadian",1
+"photosynthesis","cell cycle",0.535095810309486
+"photosynthesis","vesicle",0.0121206189266712
+"photosynthesis","water",0.0367828374799705
+"photosynthesis","sulfur",1
+"photosynthesis","translation",0.994989262315436
+"photosynthesis","trichome",0.463691956913402
+"phototropism","morphogenesis",0.0181692728902024
+"phototropism","anthocyanin",1
+"phototropism","auxin",1
+"phototropism","brassinosteroid",1
+"phototropism","calcium",1
+"phototropism","carbohydrate",1
+"phototropism","spliceosome",1
+"phototropism","cell growth",0.339899657201481
+"phototropism","cell death",1
+"phototropism","redox",1
+"phototropism","abscisic acid",1
+"phototropism","cold",1
+"phototropism","heat",1
+"phototropism","jasmonic acid",1
+"phototropism","nitrogen",0.60314680812206
+"phototropism","salt stress",1
+"phototropism","oxidative stress",0.39879585192348
+"phototropism","salicylic acid",1
+"phototropism","chlorophyll",1
+"phototropism","chromatin",0.252300403241739
+"phototropism","kinase",1
+"phototropism","cytoskeleton",1
+"phototropism","ribosome",1
+"phototropism","defense",1
+"phototropism","endoreduplication",1
+"phototropism","DNA methylation",1
+"phototropism","endocytosis",1
+"phototropism","endomembrane",1
+"phototropism","ethylene",1
+"phototropism","gibberellin",0.0986309404304963
+"phototropism","leaf vascular",1
+"phototropism","lipid",1
+"phototropism","lysosome",1
+"phototropism","metal ion",1
+"phototropism","nucleosome",1
+"phototropism","pectin",1
+"phototropism","phloem",1
+"phototropism","photoperiodism",0.135303550650111
+"phototropism","photosynthesis",1
+"phototropism","phototropism",1
+"phototropism","pigment",1
+"phototropism","senescence",1
+"phototropism","ubiquitin",1
+"phototropism","secretion",1
+"phototropism","light",0.383473063329894
+"phototropism","circadian",1
+"phototropism","cell cycle",1
+"phototropism","vesicle",0.346718761663532
+"phototropism","water",0.721198384830923
+"phototropism","sulfur",1
+"phototropism","translation",1
+"phototropism","trichome",1
+"pigment","morphogenesis",0.00135066067089032
+"pigment","anthocyanin",1
+"pigment","auxin",0.929264824569764
+"pigment","brassinosteroid",1
+"pigment","calcium",1
+"pigment","carbohydrate",0.822476429362328
+"pigment","spliceosome",0.103192190058847
+"pigment","cell growth",0.783565728121064
+"pigment","cell death",0.845747702987268
+"pigment","redox",1
+"pigment","abscisic acid",0.974417503429714
+"pigment","cold",0.965574622013121
+"pigment","heat",0.579360216086983
+"pigment","jasmonic acid",0.982988702285955
+"pigment","nitrogen",0.00321267643004955
+"pigment","salt stress",1
+"pigment","oxidative stress",0.962447805700229
+"pigment","salicylic acid",0.970715937336441
+"pigment","chlorophyll",1
+"pigment","chromatin",1.16842467958746e-05
+"pigment","kinase",0.623364794410399
+"pigment","cytoskeleton",3.12076140242257e-06
+"pigment","ribosome",1
+"pigment","defense",0.805031809444883
+"pigment","endoreduplication",1
+"pigment","DNA methylation",1
+"pigment","endocytosis",0.240185827202992
+"pigment","endomembrane",1
+"pigment","ethylene",0.000521434902458575
+"pigment","gibberellin",0.00072111911117683
+"pigment","leaf vascular",1
+"pigment","lipid",0.301962396505795
+"pigment","lysosome",1
+"pigment","metal ion",0.0482373603851874
+"pigment","nucleosome",1
+"pigment","pectin",0.845747702987268
+"pigment","phloem",1
+"pigment","photoperiodism",0.00383688548692922
+"pigment","photosynthesis",0.645984922121358
+"pigment","phototropism",1
+"pigment","pigment",1
+"pigment","senescence",0.555783905882422
+"pigment","ubiquitin",1
+"pigment","secretion",1
+"pigment","light",0.126246908461634
+"pigment","circadian",1
+"pigment","cell cycle",0.535095810309486
+"pigment","vesicle",0.0121206189266712
+"pigment","water",0.061160783026772
+"pigment","sulfur",1
+"pigment","translation",0.994989262315436
+"pigment","trichome",1
+"senescence","morphogenesis",5.51052273580444e-09
+"senescence","anthocyanin",1
+"senescence","auxin",0.991572160003144
+"senescence","brassinosteroid",0.977176146443883
+"senescence","calcium",1
+"senescence","carbohydrate",0.481302270206635
+"senescence","spliceosome",0.957608271791331
+"senescence","cell growth",0.612862113496659
+"senescence","cell death",0.89370410616594
+"senescence","redox",1
+"senescence","abscisic acid",0.999996246916558
+"senescence","cold",0.999992468692118
+"senescence","heat",0.968450800363156
+"senescence","jasmonic acid",0.999794989075826
+"senescence","nitrogen",8.28754201517097e-06
+"senescence","salt stress",0.999743032804152
+"senescence","oxidative stress",0.901820386145789
+"senescence","salicylic acid",0.99944639158421
+"senescence","chlorophyll",0.977176146443883
+"senescence","chromatin",4.87696742056178e-07
+"senescence","kinase",0.440081171583316
+"senescence","cytoskeleton",7.60219658579354e-15
+"senescence","ribosome",0.997018826902926
+"senescence","defense",0.728831726980507
+"senescence","endoreduplication",1
+"senescence","DNA methylation",1
+"senescence","endocytosis",0.267650851162529
+"senescence","endomembrane",1
+"senescence","ethylene",4.10240181145570e-11
+"senescence","gibberellin",0.0748775443228163
+"senescence","leaf vascular",1
+"senescence","lipid",0.0207612211420262
+"senescence","lysosome",0.323965753295092
+"senescence","metal ion",0.00185096897983014
+"senescence","nucleosome",1
+"senescence","pectin",0.89370410616594
+"senescence","phloem",1
+"senescence","photoperiodism",0.00105895831939929
+"senescence","photosynthesis",1
+"senescence","phototropism",1
+"senescence","pigment",1
+"senescence","senescence",0.821373526583369
+"senescence","ubiquitin",0.999998887923807
+"senescence","secretion",1
+"senescence","light",0.288484764561401
+"senescence","circadian",1
+"senescence","cell cycle",0.196773834649803
+"senescence","vesicle",0.000119872783814877
+"senescence","water",0.000227246843754494
+"senescence","sulfur",1
+"senescence","translation",1
+"senescence","trichome",0.825276796232369
+"ubiquitin","morphogenesis",6.6732236384967e-22
+"ubiquitin","anthocyanin",1
+"ubiquitin","auxin",0.9996545713839
+"ubiquitin","brassinosteroid",0.99604344548621
+"ubiquitin","calcium",1
+"ubiquitin","carbohydrate",0.994889504819332
+"ubiquitin","spliceosome",0.67415846053939
+"ubiquitin","cell growth",0.211899726514508
+"ubiquitin","cell death",0.980964967723308
+"ubiquitin","redox",1
+"ubiquitin","abscisic acid",0.999999985410632
+"ubiquitin","cold",0.999990544723209
+"ubiquitin","heat",0.988546305234225
+"ubiquitin","jasmonic acid",0.999996538086599
+"ubiquitin","nitrogen",6.83899171252273e-15
+"ubiquitin","salt stress",0.997748181443721
+"ubiquitin","oxidative stress",0.312753873619147
+"ubiquitin","salicylic acid",0.999999961704587
+"ubiquitin","chlorophyll",1
+"ubiquitin","chromatin",1.95158449206001e-15
+"ubiquitin","kinase",0.0571824390805878
+"ubiquitin","cytoskeleton",3.7357934713698e-39
+"ubiquitin","ribosome",0.949894593770985
+"ubiquitin","defense",0.554231190133909
+"ubiquitin","endoreduplication",1
+"ubiquitin","DNA methylation",1
+"ubiquitin","endocytosis",0.0915300159382806
+"ubiquitin","endomembrane",1
+"ubiquitin","ethylene",1.14384138936693e-27
+"ubiquitin","gibberellin",0.000149342486672327
+"ubiquitin","leaf vascular",1
+"ubiquitin","lipid",0.0440084540213098
+"ubiquitin","lysosome",0.0337499457706487
+"ubiquitin","metal ion",8.71599777665134e-10
+"ubiquitin","nucleosome",1
+"ubiquitin","pectin",0.906031494130687
+"ubiquitin","phloem",1
+"ubiquitin","photoperiodism",0.00230700768492342
+"ubiquitin","photosynthesis",0.997312899035509
+"ubiquitin","phototropism",1
+"ubiquitin","pigment",1
+"ubiquitin","senescence",0.9990828565055
+"ubiquitin","ubiquitin",0.999999999061383
+"ubiquitin","secretion",1
+"ubiquitin","light",0.023545453542839
+"ubiquitin","circadian",1
+"ubiquitin","cell cycle",0.0385403624636469
+"ubiquitin","vesicle",1.19432674316976e-15
+"ubiquitin","water",1.56231223109594e-10
+"ubiquitin","sulfur",1
+"ubiquitin","translation",0.999999999962529
+"ubiquitin","trichome",0.010765318097091
+"secretion","morphogenesis",0.0181692728902024
+"secretion","anthocyanin",1
+"secretion","auxin",0.44094636804731
+"secretion","brassinosteroid",1
+"secretion","calcium",1
+"secretion","carbohydrate",0.36014637057413
+"secretion","spliceosome",1
+"secretion","cell growth",0.339899657201481
+"secretion","cell death",0.170484150988426
+"secretion","redox",1
+"secretion","abscisic acid",0.323965753295092
+"secretion","cold",1
+"secretion","heat",1
+"secretion","jasmonic acid",0.122649920635902
+"secretion","nitrogen",0.0146859108401885
+"secretion","salt stress",1
+"secretion","oxidative stress",0.0928889862145236
+"secretion","salicylic acid",0.297464020209293
+"secretion","chlorophyll",0.126277700873178
+"secretion","chromatin",1
+"secretion","kinase",0.365092604962051
+"secretion","cytoskeleton",0.00959657913326667
+"secretion","ribosome",1
+"secretion","defense",0.0466747475067764
+"secretion","endoreduplication",1
+"secretion","DNA methylation",1
+"secretion","endocytosis",0.0892223044305095
+"secretion","endomembrane",1
+"secretion","ethylene",0.275233913474449
+"secretion","gibberellin",1
+"secretion","leaf vascular",1
+"secretion","lipid",0.0504728221991776
+"secretion","lysosome",0.0406853625312939
+"secretion","metal ion",1
+"secretion","nucleosome",1
+"secretion","pectin",1
+"secretion","phloem",1
+"secretion","photoperiodism",1
+"secretion","photosynthesis",1
+"secretion","phototropism",1
+"secretion","pigment",1
+"secretion","senescence",0.0349030564276317
+"secretion","ubiquitin",1
+"secretion","secretion",1
+"secretion","light",0.0116361854127115
+"secretion","circadian",1
+"secretion","cell cycle",1
+"secretion","vesicle",0.00937810928854519
+"secretion","water",0.00994088863219122
+"secretion","sulfur",1
+"secretion","translation",1
+"secretion","trichome",1
+"light","morphogenesis",3.98396871017956e-35
+"light","anthocyanin",1
+"light","auxin",0.999999944783065
+"light","brassinosteroid",0.99996789744901
+"light","calcium",0.999999999999999
+"light","carbohydrate",0.998891641611857
+"light","spliceosome",0.736006803575806
+"light","cell growth",0.635305448045739
+"light","cell death",0.97950393738029
+"light","redox",1
+"light","abscisic acid",0.999999999999992
+"light","cold",0.999999999977937
+"light","heat",0.999986385656398
+"light","jasmonic acid",0.999999999998555
+"light","nitrogen",1.14377533478783e-19
+"light","salt stress",0.999999974155724
+"light","oxidative stress",0.331783736158283
+"light","salicylic acid",0.999999999997908
+"light","chlorophyll",0.99996789744901
+"light","chromatin",7.42017191846722e-32
+"light","kinase",0.00383576188501923
+"light","cytoskeleton",4.7881171945702e-82
+"light","ribosome",0.999998226072409
+"light","defense",0.972865648763521
+"light","endoreduplication",1
+"light","DNA methylation",1
+"light","endocytosis",0.0615115964840046
+"light","endomembrane",1
+"light","ethylene",2.76032968828735e-50
+"light","gibberellin",0.00264284921819606
+"light","leaf vascular",1
+"light","lipid",0.000645036639563937
+"light","lysosome",0.00859920555348
+"light","metal ion",1.27049413994299e-11
+"light","nucleosome",1
+"light","pectin",0.997370618828982
+"light","phloem",1
+"light","photoperiodism",1.64735547052383e-10
+"light","photosynthesis",0.999998314654771
+"light","phototropism",1
+"light","pigment",1
+"light","senescence",0.96598424725123
+"light","ubiquitin",1
+"light","secretion",1
+"light","light",0.257771838125054
+"light","circadian",1
+"light","cell cycle",0.073783648362024
+"light","vesicle",4.95068501434889e-33
+"light","water",4.16855639372118e-17
+"light","sulfur",1
+"light","translation",1
+"light","trichome",0.0625816921860832
+"circadian","morphogenesis",0.000440599663952113
+"circadian","anthocyanin",1
+"circadian","auxin",0.969473876176465
+"circadian","brassinosteroid",1
+"circadian","calcium",1
+"circadian","carbohydrate",0.28129938632188
+"circadian","spliceosome",0.653261482470671
+"circadian","cell growth",0.454180053129273
+"circadian","cell death",0.308826741447109
+"circadian","redox",1
+"circadian","abscisic acid",0.547028075193742
+"circadian","cold",0.602128946088955
+"circadian","heat",0.835831008231581
+"circadian","jasmonic acid",0.487684966733412
+"circadian","nitrogen",2.09692684096047e-05
+"circadian","salt stress",1
+"circadian","oxidative stress",0.808625930613289
+"circadian","salicylic acid",1
+"circadian","chlorophyll",0.555125134854299
+"circadian","chromatin",0.00900244501839624
+"circadian","kinase",0.499165079381523
+"circadian","cytoskeleton",3.84063955865549e-06
+"circadian","ribosome",1
+"circadian","defense",0.49064879399994
+"circadian","endoreduplication",1
+"circadian","DNA methylation",1
+"circadian","endocytosis",1
+"circadian","endomembrane",1
+"circadian","ethylene",0.00376296763817885
+"circadian","gibberellin",0.00383424905783711
+"circadian","leaf vascular",1
+"circadian","lipid",0.0412797862871641
+"circadian","lysosome",0.0263463244285724
+"circadian","metal ion",0.0488630623582096
+"circadian","nucleosome",1
+"circadian","pectin",1
+"circadian","phloem",1
+"circadian","photoperiodism",0.0121314523455229
+"circadian","photosynthesis",1
+"circadian","phototropism",1
+"circadian","pigment",1
+"circadian","senescence",1
+"circadian","ubiquitin",1
+"circadian","secretion",1
+"circadian","light",0.00154012805779482
+"circadian","circadian",1
+"circadian","cell cycle",0.90027267990303
+"circadian","vesicle",0.00131936924903626
+"circadian","water",0.00243165910938231
+"circadian","sulfur",1
+"circadian","translation",1
+"circadian","trichome",1
+"cell cycle","morphogenesis",5.97356472120674e-20
+"cell cycle","anthocyanin",1
+"cell cycle","auxin",0.997978856360202
+"cell cycle","brassinosteroid",1
+"cell cycle","calcium",0.999913363469853
+"cell cycle","carbohydrate",0.839165357615296
+"cell cycle","spliceosome",0.890321158638236
+"cell cycle","cell growth",0.00122815471414478
+"cell cycle","cell death",0.537674961963988
+"cell cycle","redox",1
+"cell cycle","abscisic acid",0.990240242291497
+"cell cycle","cold",0.798649215563423
+"cell cycle","heat",0.556974621583243
+"cell cycle","jasmonic acid",0.986895612372187
+"cell cycle","nitrogen",1.17680271486742e-08
+"cell cycle","salt stress",0.920190618633691
+"cell cycle","oxidative stress",0.099189568579559
+"cell cycle","salicylic acid",0.999997881969876
+"cell cycle","chlorophyll",0.959401661526293
+"cell cycle","chromatin",1.22854343553104e-07
+"cell cycle","kinase",0.219663940959937
+"cell cycle","cytoskeleton",8.10993517186197e-16
+"cell cycle","ribosome",0.947647774230244
+"cell cycle","defense",0.234399847492947
+"cell cycle","endoreduplication",1
+"cell cycle","DNA methylation",1
+"cell cycle","endocytosis",0.0620825359923564
+"cell cycle","endomembrane",1
+"cell cycle","ethylene",1.95077041290692e-13
+"cell cycle","gibberellin",0.000186946686533746
+"cell cycle","leaf vascular",1
+"cell cycle","lipid",0.0222496658855224
+"cell cycle","lysosome",0.00106310005499041
+"cell cycle","metal ion",0.00069046343694746
+"cell cycle","nucleosome",1
+"cell cycle","pectin",0.992150544144178
+"cell cycle","phloem",1
+"cell cycle","photoperiodism",0.0093589264028374
+"cell cycle","photosynthesis",1
+"cell cycle","phototropism",1
+"cell cycle","pigment",1
+"cell cycle","senescence",0.956698001003614
+"cell cycle","ubiquitin",0.99993642619895
+"cell cycle","secretion",1
+"cell cycle","light",1.1628771980499e-05
+"cell cycle","circadian",1
+"cell cycle","cell cycle",0.452421200655204
+"cell cycle","vesicle",5.70905365201785e-07
+"cell cycle","water",2.86953509586552e-06
+"cell cycle","sulfur",1
+"cell cycle","translation",0.999999345164463
+"cell cycle","trichome",0.00946876852873267
+"vesicle","morphogenesis",3.97579337418252e-19
+"vesicle","anthocyanin",1
+"vesicle","auxin",0.997243455063292
+"vesicle","brassinosteroid",0.99605392500989
+"vesicle","calcium",0.99999814950272
+"vesicle","carbohydrate",0.872433372875158
+"vesicle","spliceosome",0.929829044993044
+"vesicle","cell growth",0.631278868848345
+"vesicle","cell death",0.879428703281814
+"vesicle","redox",1
+"vesicle","abscisic acid",0.999999716716589
+"vesicle","cold",0.997678119240557
+"vesicle","heat",0.962299337023691
+"vesicle","jasmonic acid",0.999971405018093
+"vesicle","nitrogen",1.00721187936286e-06
+"vesicle","salt stress",0.982502450363562
+"vesicle","oxidative stress",0.604264253184605
+"vesicle","salicylic acid",0.999992016524922
+"vesicle","chlorophyll",0.974210916852985
+"vesicle","chromatin",2.94977237472329e-06
+"vesicle","kinase",0.428929401048625
+"vesicle","cytoskeleton",1.05611473256201e-22
+"vesicle","ribosome",0.990830229871905
+"vesicle","defense",0.612301391838111
+"vesicle","endoreduplication",1
+"vesicle","DNA methylation",1
+"vesicle","endocytosis",0.189143485039476
+"vesicle","endomembrane",1
+"vesicle","ethylene",4.49253792811083e-13
+"vesicle","gibberellin",0.0300486706984991
+"vesicle","leaf vascular",1
+"vesicle","lipid",0.0415420832374067
+"vesicle","lysosome",0.00189290579694847
+"vesicle","metal ion",0.0114866177540883
+"vesicle","nucleosome",1
+"vesicle","pectin",0.982145259606841
+"vesicle","phloem",1
+"vesicle","photoperiodism",0.0192079560697908
+"vesicle","photosynthesis",1
+"vesicle","phototropism",1
+"vesicle","pigment",1
+"vesicle","senescence",0.952142042806232
+"vesicle","ubiquitin",0.999999990814106
+"vesicle","secretion",1
+"vesicle","light",0.0243314511721663
+"vesicle","circadian",1
+"vesicle","cell cycle",0.508544659560782
+"vesicle","vesicle",2.6837155969925e-08
+"vesicle","water",2.08490957522294e-05
+"vesicle","sulfur",1
+"vesicle","translation",0.999999999630284
+"vesicle","trichome",0.25412638334668
+"water","morphogenesis",5.46963261991228e-38
+"water","anthocyanin",1
+"water","auxin",0.999999999465128
+"water","brassinosteroid",0.999749164685453
+"water","calcium",1
+"water","carbohydrate",0.998344782999097
+"water","spliceosome",0.419317603767361
+"water","cell growth",0.780415755630554
+"water","cell death",0.876895124836777
+"water","redox",1
+"water","abscisic acid",0.999999999999961
+"water","cold",0.999999990248855
+"water","heat",0.963853126402975
+"water","jasmonic acid",0.999999999231855
+"water","nitrogen",5.96175387958351e-19
+"water","salt stress",0.999999938853148
+"water","oxidative stress",0.546359058030851
+"water","salicylic acid",0.999999420783103
+"water","chlorophyll",0.999998920134045
+"water","chromatin",8.49772993081329e-32
+"water","kinase",0.0458346649695401
+"water","cytoskeleton",9.78665492618411e-71
+"water","ribosome",0.997679968894701
+"water","defense",0.697391635298474
+"water","endoreduplication",1
+"water","DNA methylation",1
+"water","endocytosis",0.00180842922789948
+"water","endomembrane",1
+"water","ethylene",2.59748841036463e-43
+"water","gibberellin",0.00625643224280988
+"water","leaf vascular",1
+"water","lipid",0.000542611581210041
+"water","lysosome",0.144983958631765
+"water","metal ion",3.02331128421117e-11
+"water","nucleosome",1
+"water","pectin",0.824790961072498
+"water","phloem",1
+"water","photoperiodism",5.2621703809075e-08
+"water","photosynthesis",1
+"water","phototropism",1
+"water","pigment",1
+"water","senescence",0.809130702993047
+"water","ubiquitin",1
+"water","secretion",1
+"water","light",0.0130931529117454
+"water","circadian",1
+"water","cell cycle",0.36396095694217
+"water","vesicle",1.62239356190526e-25
+"water","water",1.68889232027462e-16
+"water","sulfur",1
+"water","translation",1
+"water","trichome",0.360579606326968
+"sulfur","morphogenesis",3.13752044678232e-09
+"sulfur","anthocyanin",1
+"sulfur","auxin",0.872243727372499
+"sulfur","brassinosteroid",1
+"sulfur","calcium",1
+"sulfur","carbohydrate",0.229584408713831
+"sulfur","spliceosome",0.667969339605691
+"sulfur","cell growth",0.786690499247522
+"sulfur","cell death",0.438077192507062
+"sulfur","redox",1
+"sulfur","abscisic acid",0.823066467158404
+"sulfur","cold",0.80293955580836
+"sulfur","heat",0.749155051628147
+"sulfur","jasmonic acid",0.890205949212521
+"sulfur","nitrogen",1.58165029511144e-07
+"sulfur","salt stress",0.881515791417287
+"sulfur","oxidative stress",0.073415833359632
+"sulfur","salicylic acid",1
+"sulfur","chlorophyll",0.827081811123884
+"sulfur","chromatin",2.42105591316759e-06
+"sulfur","kinase",0.771883836066199
+"sulfur","cytoskeleton",2.14546375488646e-10
+"sulfur","ribosome",1
+"sulfur","defense",0.104035115511366
+"sulfur","endoreduplication",1
+"sulfur","DNA methylation",1
+"sulfur","endocytosis",0.342763989486082
+"sulfur","endomembrane",1
+"sulfur","ethylene",2.05174686250011e-06
+"sulfur","gibberellin",0.390760935330949
+"sulfur","leaf vascular",1
+"sulfur","lipid",0.00907939954594857
+"sulfur","lysosome",0.417236128767769
+"sulfur","metal ion",0.00223481875045695
+"sulfur","nucleosome",1
+"sulfur","pectin",1
+"sulfur","phloem",1
+"sulfur","photoperiodism",0.0432617025321501
+"sulfur","photosynthesis",1
+"sulfur","phototropism",1
+"sulfur","pigment",1
+"sulfur","senescence",0.52237835878675
+"sulfur","ubiquitin",1
+"sulfur","secretion",1
+"sulfur","light",0.00615010903677189
+"sulfur","circadian",1
+"sulfur","cell cycle",0.0677387386661376
+"sulfur","vesicle",0.00178202950124145
+"sulfur","water",1.09536280043852e-05
+"sulfur","sulfur",1
+"sulfur","translation",0.991934003806631
+"sulfur","trichome",0.555125134854299
+"translation","morphogenesis",5.46148559403614e-24
+"translation","anthocyanin",1
+"translation","auxin",0.998889221032806
+"translation","brassinosteroid",0.816241054290643
+"translation","calcium",0.999934166211743
+"translation","carbohydrate",0.673220024202992
+"translation","spliceosome",0.793516154773583
+"translation","cell growth",0.089059464106061
+"translation","cell death",0.358688325489917
+"translation","redox",1
+"translation","abscisic acid",0.999859502383487
+"translation","cold",0.994018968867329
+"translation","heat",0.985387527811037
+"translation","jasmonic acid",0.998673545559569
+"translation","nitrogen",1.17370368665818e-09
+"translation","salt stress",0.967182028915164
+"translation","oxidative stress",0.97467219130062
+"translation","salicylic acid",0.999982571648303
+"translation","chlorophyll",0.998977133072153
+"translation","chromatin",5.93891635831611e-13
+"translation","kinase",0.0184793975368426
+"translation","cytoskeleton",2.16513036586114e-36
+"translation","ribosome",0.993328680076869
+"translation","defense",0.413923852930008
+"translation","endoreduplication",1
+"translation","DNA methylation",1
+"translation","endocytosis",0.854245872397001
+"translation","endomembrane",1
+"translation","ethylene",6.93526879382164e-18
+"translation","gibberellin",0.166030175412233
+"translation","leaf vascular",1
+"translation","lipid",0.0265601846673779
+"translation","lysosome",0.355320195233044
+"translation","metal ion",0.00080210442225828
+"translation","nucleosome",1
+"translation","pectin",0.99594753550221
+"translation","phloem",1
+"translation","photoperiodism",0.000694199741873181
+"translation","photosynthesis",1
+"translation","phototropism",1
+"translation","pigment",1
+"translation","senescence",0.924424777921355
+"translation","ubiquitin",0.999999899749848
+"translation","secretion",1
+"translation","light",0.0401841532860169
+"translation","circadian",1
+"translation","cell cycle",0.135059546175286
+"translation","vesicle",1.52485425847017e-13
+"translation","water",4.74858448593257e-08
+"translation","sulfur",1
+"translation","translation",1
+"translation","trichome",0.0162096482599645
+"trichome","morphogenesis",0.00322414017374402
+"trichome","anthocyanin",1
+"trichome","auxin",1
+"trichome","brassinosteroid",1
+"trichome","calcium",1
+"trichome","carbohydrate",0.747528028560323
+"trichome","spliceosome",1
+"trichome","cell growth",0.917275403155595
+"trichome","cell death",1
+"trichome","redox",1
+"trichome","abscisic acid",0.969878909313604
+"trichome","cold",0.955635671248735
+"trichome","heat",0.271205512771654
+"trichome","jasmonic acid",0.97305050637571
+"trichome","nitrogen",0.47879688461022
+"trichome","salt stress",0.971317886224055
+"trichome","oxidative stress",0.808625930613289
+"trichome","salicylic acid",1
+"trichome","chlorophyll",1
+"trichome","chromatin",0.520457102502519
+"trichome","kinase",0.152147938919117
+"trichome","cytoskeleton",3.56916151533703e-05
+"trichome","ribosome",0.353962619897854
+"trichome","defense",0.49064879399994
+"trichome","endoreduplication",1
+"trichome","DNA methylation",1
+"trichome","endocytosis",1
+"trichome","endomembrane",1
+"trichome","ethylene",0.00376296763817885
+"trichome","gibberellin",1
+"trichome","leaf vascular",1
+"trichome","lipid",0.311539832112046
+"trichome","lysosome",1
+"trichome","metal ion",0.555125134854299
+"trichome","nucleosome",1
+"trichome","pectin",1
+"trichome","phloem",1
+"trichome","photoperiodism",0.581997402534137
+"trichome","photosynthesis",1
+"trichome","phototropism",1
+"trichome","pigment",1
+"trichome","senescence",1
+"trichome","ubiquitin",0.971317886224055
+"trichome","secretion",1
+"trichome","light",0.54354795962649
+"trichome","circadian",1
+"trichome","cell cycle",0.90027267990303
+"trichome","vesicle",0.0457544375294422
+"trichome","water",0.0252134759236913
+"trichome","sulfur",1
+"trichome","translation",1
+"trichome","trichome",1

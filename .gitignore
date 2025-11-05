@@ -1,0 +1,21 @@
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+
+# Large data files (too big for GitHub)
+data/flowerdata.RData
+data/functionalData.RData
+
+# Output files that can be regenerated
+results/networks/*.RData
+results/tables/*.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
