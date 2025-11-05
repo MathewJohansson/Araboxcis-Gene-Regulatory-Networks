@@ -11,7 +11,7 @@ This project constructs and analyses gene regulatory networks from single-cell R
 - Gene regulatory network inference using GENIE3.
 - Network topology analysis (degree, betweenness, centrality, hub scores).
 - Gene Ontology enrichment and pathway analysis.
-- Network visualization in Cytoscape.
+- Network visualisation in Cytoscape.
 
 ## Key Findings
 
