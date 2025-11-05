@@ -15,11 +15,11 @@ This project constructs and analyses gene regulatory networks from single-cell R
 
 ## Key Findings
 
-- **Network Construction:** Inferred a gene regulatory network containing 44,796 edges from single-cell flower data
-- **Network Comparison:** Identified 8,280 shared regulatory edges between single-cell and bulk RNA-seq networks, with 36,516 edges unique to each dataset, highlighting tissue-specific regulatory mechanisms
-- **Hub Transcription Factors:** AT5G08130 identified as the most highly connected TF with 1,875 target genes, followed by AT3G24140 (1,511 targets) and AT3G57800 (1,446 targets)
-- **Regulatory Relationships:** Discovered 211 strong positive TF-target pairs with significant co-occurrence in single cells (odds ratio > e)
-- **GO Term Hierarchy:** Revealed upstream-downstream relationships between biological processes in the flower regulatory network
+- **Network Construction:** Inferred a gene regulatory network containing 44,796 edges from single-cell flower data.
+- **Network Comparison:** Identified 8,280 shared regulatory edges between single-cell and bulk RNA-seq networks, with 36,516 edges unique to each dataset, highlighting tissue-specific regulatory mechanisms.
+- **Hub Transcription Factors:** AT5G08130 identified as the most highly connected TF with 1,875 target genes, followed by AT3G24140 (1,511 targets) and AT3G57800 (1,446 targets).
+- **Regulatory Relationships:** Discovered 211 strong positive TF-target pairs with significant co-occurrence in single cells (odds ratio > e).
+- **GO Term Hierarchy:** Revealed upstream-downstream relationships between biological processes in the flower regulatory network.
 
 ## Project Structure
 
