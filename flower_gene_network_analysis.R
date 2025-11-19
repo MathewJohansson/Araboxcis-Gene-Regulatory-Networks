@@ -1,9 +1,9 @@
 
 
 
-
 # Project: Gene Regulatory Network Analysis
 # Focus: G-box regulatory networks in flower development of Arabidopsis thaliana
+
 
 
 # Required packages
@@ -70,11 +70,13 @@ clust[1:8]
 # Cell counts in each cluster
 table(clust)
 
-# Visualize cell distribution across clusters
+# Visualise cell distribution across clusters
+png("results/figures/Cell Distribution Across Clusters.png", width = 800, height = 600)
 plot(table(sort(clust)), 
      xlab = 'Cluster Name', 
      ylab = 'Number of Cells', 
      main = 'Cell Distribution Across Clusters - Flower Data')
+dev.off()
 
 
 
@@ -88,9 +90,11 @@ dim(araboxcis)
 araboxcis[1:4, ]
 
 # Distribution of edge scores
+png("results/figures/Histogram of Edge Scores.png", width = 800, height = 600)
 hist(araboxcis[, 3],
      main = 'Distribution of AraBOXcis Edge Scores',
      xlab = 'Edge Score')
+dev.off()
 
 # Extract transcription factors from AraBOXcis network
 tfs <- unique(araboxcis[, 1])
@@ -142,9 +146,10 @@ cat("After gene filtering:", dim(gbox_filtered)[1], "genes remaining\n")
 # UMAP on filtered data
 gbox_umap <- umap(gbox_filtered)
 
-# Visualize with cluster colors
+# Visualise with cluster colours
 colours <- rainbow(length(unique(clust)))
 
+png("results/figures/Plot of UMAP.png", width = 800, height = 600)
 plot(gbox_umap$layout[, 1], 
      gbox_umap$layout[, 2],
      col = colours[clust[includeCells]], 
@@ -152,6 +157,7 @@ plot(gbox_umap$layout[, 1],
      main = 'UMAP - Flower Cell Clusters', 
      xlab = 'UMAP Component 1', 
      ylab = 'UMAP Component 2')
+dev.off()
 
 
 
@@ -166,6 +172,7 @@ pca <- prcomp(gbox_filtered,
 # UMAP on PCA results
 gbox_pca_umap <- umap(pca$x)
 
+png("results/figures/Plot of UMAP With PCA.png", width = 800, height = 600)
 plot(gbox_pca_umap$layout[, 1], 
      gbox_pca_umap$layout[, 2], 
      col = colours[clust[includeCells]], 
@@ -173,6 +180,7 @@ plot(gbox_pca_umap$layout[, 1],
      main = 'PCA + UMAP - Flower Cell Clusters', 
      xlab = 'UMAP Component 1', 
      ylab = 'UMAP Component 2')
+dev.off()
 
 
 
@@ -204,9 +212,11 @@ dim(geneExpByCluster)
 # 9. VISUALIZE GENE EXPRESSION AS HEATMAP --------------------------------------
 
 # Heatmap of average gene expression per cluster (scaled by column)
+png("results/figures/Heatmap.png", width = 1000, height = 800)
 pheatmap(geneExpByCluster, 
          scale = 'column',
          main = 'Average Gene Expression by Cluster')
+dev.off()
 
 # Load cluster labels (cell type annotations)
 clustLabs <- read.table('data/clusterLabels.txt', 
@@ -224,10 +234,12 @@ print(simpleNames)
 # Set meaningful row names for the heatmap
 rownames(geneExpByCluster) <- simpleNames
 
-# Redraw heatmap with cell type labels
+# Redraw heatmap with cell type labels (overwrites previous)
+png("results/figures/Heatmap.png", width = 1000, height = 800)
 pheatmap(geneExpByCluster, 
          scale = 'column',
          main = 'Average Gene Expression by Cell Type - Flower')
+dev.off()
 
 # Save the table for future use
 write.table(geneExpByCluster, 
@@ -241,9 +253,11 @@ write.table(geneExpByCluster,
 # 10. FOCUS ON TRANSCRIPTION FACTORS -------------------------------------------
 
 # Heatmap focusing only on G-box binding TFs
+png("results/figures/TF Expression Heatmap.png", width = 1000, height = 800)
 pheatmap(geneExpByCluster[, tfSubs], 
          scale = 'column',
          main = 'TF Expression Across Cell Types')
+dev.off()
 
 
 
@@ -263,9 +277,11 @@ corMat <- sapply(tfSubs, function(tf) {
 # Dimensions: rows = genes, columns = TFs
 dim(corMat)
 
-# Visualize TF-gene correlation patterns
+# Visualise TF-gene correlation patterns
+png("results/figures/TF Gene Correlation Heatmap.png", width = 1000, height = 800)
 pheatmap(corMat,
          main = 'TF-Gene Expression Correlations')
+dev.off()
 
 
 
@@ -313,11 +329,13 @@ oddsRatios <- apply(highCorPairs,
                       c(inBoth, inFirst, inSecond, inNone, oddsRatio)
                     })
 
-# Visualize distribution of log odds ratios
+# Visualise distribution of log odds ratios
+png("results/figures/Log Odds Ratio Distribution.png", width = 800, height = 600)
 hist(log(oddsRatios[5, ]), 
      main = 'Log Odds Ratio Distribution - Flower',
      xlab = 'Log Odds Ratio',
      col = 'lightblue')
+dev.off()
 
 
 
@@ -386,8 +404,6 @@ cat("Identified", nrow(simpson), "Simpson's paradox pairs\n")
 
 
 
-
-
 # 16. NETWORK CONSTRUCTION WITH GENIE3 -----------------------------------------
 
 # Additional packages required for network analysis
@@ -405,9 +421,9 @@ library(network)
 #   - nTrees: Number of trees in random forest (reduced to 5 for speed)
 
 # Construct gene regulatory network
-net <- GENIE3(as.matrix(gbox), 
-              regulators = tfSubs, 
-              nTrees = 5)
+# net <- GENIE3(as.matrix(gbox), 
+#               regulators = tfSubs, 
+#               nTrees = 5)
 
 # Save the network for future use
 save(net,
@@ -484,19 +500,29 @@ cat("  Edges only in AraBOXcis:", oldOnly, "\n")
 tfsNew <- table(newNetTopEdges[, 1])
 tfsOld <- table(araboxcisFiltered[, 1])[names(tfsNew)]
 
-# Visualize TF degree distribution
+# Visualise TF degree distribution
+png("results/figures/Histogram of TFs.png", width = 800, height = 600)
 hist(as.numeric(tfsNew), 
      main = 'TF Degree Distribution - SinceAraBOXcis', 
      xlab = 'Degree (Number of Target Genes)',
      col = 'lightblue')
+dev.off()
 
-# Compare TF degrees between networks
+# Compare TF degrees between networks 
+png("results/figures/Scatterplot of TFs.png", width = 800, height = 600)
+par(mar = c(5, 5, 4, 4))  
 plot(as.numeric(tfsNew),
      as.numeric(tfsOld),
      xlab = 'Degree in SinceAraBOXcis',
      ylab = 'Degree in AraBOXcis',
      main = 'TF Degree Comparison Between Networks',
-     pch = 20)
+     pch = 20,
+     cex.lab = 1.0,  
+     cex.axis = 0.9, 
+     cex.main = 1.1,  
+     xlim = c(0, max(as.numeric(tfsNew), na.rm = TRUE) * 1.08),  
+     ylim = c(0, max(as.numeric(tfsOld), na.rm = TRUE) * 1.05))
+dev.off()
 
 # Top 35 TFs by degree
 cat("\nTop 35 TFs by degree:\n")
@@ -528,20 +554,22 @@ node_betweenness <- node_betweenness_all[which(node_betweenness_all > 0)]
 cat("\nTop 20 genes by betweenness centrality:\n")
 print(sort(node_betweenness, decreasing = TRUE)[1:20])
 
-# Visualize betweenness distribution
+# Visualise betweenness distribution
+png("results/figures/Scatterplot of Node Betweenness Metric.png", width = 800, height = 600)
 plot(sort(node_betweenness),
      main = 'Node Betweenness Distribution',
      xlab = 'Rank',
      ylab = 'Betweenness Centrality',
      pch = 20)
+dev.off()
 
 
 
 
 # 23. NODE ALPHA CENTRALITY -----------------------------------------------------
 
-# Alpha centrality: Measures influence of a node and its neighbors
-# High centrality = gene is well-connected and neighbors are well-connected
+# Alpha centrality: Measures influence of a node and its neighbours
+# High centrality = gene is well-connected and neighbours are well-connected
 # Identifies influential regulatory hubs
 
 node_centrality_all <- alpha_centrality(simple_network)
@@ -550,12 +578,14 @@ node_centrality <- node_centrality_all[which(node_centrality_all > 0)]
 cat("\nTop 20 genes by alpha centrality:\n")
 print(sort(node_centrality, decreasing = TRUE)[1:20])
 
-# Visualize centrality distribution
+# Visualise centrality distribution
+png("results/figures/Scatterplot of Node Centrality Metric.png", width = 800, height = 600)
 plot(sort(node_centrality),
      main = 'Node Alpha Centrality Distribution',
      xlab = 'Rank',
      ylab = 'Alpha Centrality',
      pch = 20)
+dev.off()
 
 
 
@@ -572,12 +602,14 @@ node_hub <- node_hub_all[which(node_hub_all > 0)]
 cat("\nTop 20 genes by hub score:\n")
 print(sort(node_hub, decreasing = TRUE)[1:20])
 
-# Visualize hub score distribution
+# Visualise hub score distribution
+png("results/figures/Scatterplot of Node Hub Score Metric.png", width = 800, height = 600)
 plot(sort(node_hub),
      main = 'Node Hub Score Distribution',
      xlab = 'Rank',
      ylab = 'Hub Score',
      pch = 20)
+dev.off()
 
 
 
@@ -585,20 +617,30 @@ plot(sort(node_hub),
 # 25. COMPARE NETWORK METRICS ---------------------------------------------------
 
 # Compare betweenness vs alpha centrality
+png("results/figures/Scatterplot of Betweenness vs Alpha Centrality.png", width = 800, height = 600)
 plot(node_betweenness_all, 
      node_centrality_all,
      xlab = 'Betweenness Centrality',
      ylab = 'Alpha Centrality',
      main = 'Betweenness vs Alpha Centrality',
      pch = 20)
+dev.off()
 
 # Compare hub score vs alpha centrality
+png("results/figures/Scatterplot of Hub Score vs Alpha Centrality.png", width = 800, height = 600)
+par(mar = c(5, 5, 4, 3))
 plot(node_hub_all, 
      node_centrality_all,
      xlab = 'Hub Score',
      ylab = 'Alpha Centrality',
      main = 'Hub Score vs Alpha Centrality',
-     pch = 20)
+     pch = 20,
+     cex.lab = 1.0,
+     cex.axis = 0.9,
+     cex.main = 1.1,
+     xlim = c(0, max(node_hub_all) * 1.05),  # Start x-axis at 0
+     ylim = c(min(node_centrality_all) * 1.05, max(node_centrality_all) * 1.05)) 
+dev.off()
 
 
 
@@ -634,15 +676,19 @@ pafwayInterestingOnly <- pafwayOut[atLeastOneSigRow, atLeastOneSigCol]
 cat("\nSignificant GO term associations found:", 
     length(atLeastOneSigRow), "terms\n")
 
-# Visualize GO term hierarchy
+# Visualise GO term hierarchy
 # Column terms are upstream of row terms
 # Smaller p-values = stronger associations
+png("results/figures/Heatmap.png", width = 1000, height = 800)
 pheatmap(pafwayInterestingOnly,
          main = 'GO Term Network Hierarchy (p-values)')
+dev.off()
 
 # Log-transform for better visualization of highly significant associations
+png("results/figures/Heatmap_log10.png", width = 1000, height = 800)
 pheatmap(log10(pafwayInterestingOnly),
          main = 'GO Term Network Hierarchy (log10 p-values)')
+dev.off()
 
 
 
@@ -679,9 +725,6 @@ cat("\nAll network metrics saved successfully\n")
 # - Comparison with bulk RNA-seq AraBOXcis network
 # - Identification of key regulatory hubs via multiple centrality metrics
 # - GO term enrichment analysis revealing biological process hierarchy
-
-
-
 
 
 
