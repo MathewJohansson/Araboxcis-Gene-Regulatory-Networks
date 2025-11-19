@@ -172,8 +172,9 @@ The analysis reveals that single-cell and bulk RNA-seq networks capture differen
 ## Author
 
 **Mathew Johansson**  
-MSc Bioinformatics  
-[GitHub](https://github.com/MathewJohansson) | [LinkedIn](https://www.linkedin.com/in/mathew-johansson/)
+MSc Bioinformatics, University of York  
+Voluntary Research Associate, Jeffares Lab  
+[GitHub](https://github.com/MathewJohansson) | [LinkedIn](https://www.linkedin.com/in/mathew-johansson/))
 
 ## Acknowledgements
 
